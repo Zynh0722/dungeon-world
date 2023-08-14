@@ -1,0 +1,81 @@
+---
+import DropdownArrow from "./DropdownArrow.astro";
+
+import {
+  Astronav,
+  MenuItems,
+  MenuIcon,
+  Dropdown,
+  DropdownItems,
+  DropdownSubmenu,
+} from "astro-navbar";
+---
+
+<header class="lg:flex p-5 gap-5">
+  <Astronav closeOnClick>
+    <div class="flex w-full lg:w-auto justify-between">
+      <a>Dungeon World</a>
+      <div class="block lg:hidden">
+        <MenuIcon class="w-4 h-4 text-gray-800" />
+      </div>
+    </div>
+    <MenuItems class="hidden lg:flex">
+      <ul class="flex flex-col lg:flex-row lg:gap-5">
+        <li>
+          <Dropdown class="group">
+            <button class="flex items-center">
+              <span>Playing</span>
+              <DropdownArrow />
+            </button>
+            <DropdownItems class="relative">
+              <div
+                class="absolute top-0 bg-white p-1 border-black border rounded"
+              >
+                <ul>
+                  <li><a href="/playing/introduction">Introduction</a></li>
+                  <li>
+                    <a href="/playing/playing_the_game">Playing the Game</a>
+                  </li>
+                  <li>
+                    <a href="/playing/example_of_play">Example of Play</a>
+                  </li>
+                  <li>
+                    <a href="/playing/character_creation">Character Creation</a>
+                  </li>
+                  <li><a href="/playing/moves">Moves</a></li>
+                  <li><a href="/playing/equipment">Equipment</a></li>
+                </ul>
+              </div>
+            </DropdownItems>
+          </Dropdown>
+        </li>
+        <li>
+          <Dropdown class="group">
+            <button class="flex items-center">
+              <span>Classes</span>
+              <DropdownArrow />
+            </button>
+            <DropdownItems class="relative">
+              <div
+                class="absolute top-0 bg-white p-1 border-black border rounded"
+              >
+                <ul>
+                  <li><a href="/classes/barbarian">Barbarian</a></li>
+                  <li><a href="/classes/bard">Bard</a></li>
+                  <li><a href="/classes/cleric">Cleric</a></li>
+                  <li><a href="/classes/druid">Druid</a></li>
+                  <li><a href="/classes/fighter">Fighter</a></li>
+                  <li><a href="/classes/immolator">Immolator</a></li>
+                  <li><a href="/classes/paladin">Paladin</a></li>
+                  <li><a href="/classes/ranger">Ranger</a></li>
+                  <li><a href="/classes/thief">Thief</a></li>
+                  <li><a href="/classes/wizard">Wizard</a></li>
+                </ul>
+              </div>
+            </DropdownItems>
+          </Dropdown>
+        </li>
+      </ul>
+    </MenuItems>
+  </Astronav>
+</header>

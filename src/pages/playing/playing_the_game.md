@@ -1,6 +1,6 @@
 ---
 layout: "../../layouts/GenericPage.astro"
-title: "Introduction"
+title: "Playing the Game"
 ---
 
 # Playing the Game

@@ -1,4 +1,6 @@
 ---
+import Nav from "../components/Nav.astro";
+
 const title =
   Astro.props.frontmatter.title ||
   Astro.props.file.split("/").at(-1).split(".").at(0) ||
@@ -16,6 +18,12 @@ const title =
     <title>{title}</title>
   </head>
   <body>
+    <Nav />
     <slot />
   </body>
 </html>
+<style is:global>
+  .hidden {
+    display: none;
+  }
+</style>
