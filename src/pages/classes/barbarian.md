@@ -1,6 +1,6 @@
 ---
 layout: "../../layouts/GenericPage.astro"
-title: "Character Creation"
+title: "Barbarian"
 ---
 
 # The Barbarian
