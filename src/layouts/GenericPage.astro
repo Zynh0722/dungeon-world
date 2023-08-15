@@ -1,10 +1,13 @@
 ---
 import Nav from "../components/Nav.astro";
 
-const title =
-  Astro.props.frontmatter.title ||
-  Astro.props.file.split("/").at(-1).split(".").at(0) ||
+let title =
+  Astro.props.title ||
+  Astro.props.frontmatter?.title ||
+  Astro.props.file?.split("/").at(-1).split(".").at(0) ||
   "uwu";
+
+title = title + " - Dungeon World";
 ---
 
 <!DOCTYPE html>
