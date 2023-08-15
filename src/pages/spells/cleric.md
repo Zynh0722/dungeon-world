@@ -3,7 +3,6 @@ layout: "../../layouts/GenericPage.astro"
 title: "Cleric Spells"
 ---
 
-
 # Cleric Spells
 ## Rotes
 
