@@ -141,7 +141,7 @@ I have sworn to protect _______________.
 I worry about the ability of _______________ to survive in the dungeon.
 
 _______________ is soft, but I will make them hard like me.
-Advanced Moves
+## Advanced Moves
 
 When you gain a level from 2-5, choose from these moves.
 ### Merciless
