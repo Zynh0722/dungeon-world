@@ -14,7 +14,6 @@ module.exports = {
         'h2': { fontSize: theme('fontSize.2xl') },
         'h3': { fontSize: theme('fontSize.xl') },
         'h4': { fontSize: theme('fontSize.lg') },
-        'li': { listStyleType: theme('listStyleType.disc'), listStylePosition: 'inside' }
       })
     })
   ],
