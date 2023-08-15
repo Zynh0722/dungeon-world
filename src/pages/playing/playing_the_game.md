@@ -20,8 +20,10 @@ Each ability has a modifier associated with it that is used when rolling with th
 ## Making Moves
 The most basic unit of rules in Dungeon World is the move. A move looks like this:
 
-When you attack an enemy in melee, roll+STR. • On a 10+, you deal your damage to the enemy and avoid their attack. At your option, you may choose to do +1d6 damage but expose yourself to the enemy’s attack. • On a 7–9, you deal your damage to the enemy and the enemy makes an attack against you.
+---
+When you **attack an enemy in melee**, roll+STR. • On a 10+, you deal your damage to the enemy and avoid their attack. At your option, you may choose to do +1d6 damage but expose yourself to the enemy’s attack. • On a 7–9, you deal your damage to the enemy and the enemy makes an attack against you.
 
+---
 Moves are rules that tell you when they trigger and what effect they have. A move depends on a fictional action and always has some fictional effect. “Fictional” means that the action and effect come from the world of the characters we’re describing. In the move above the trigger is “when you attack an enemy in melee.” The effect is what follows: a roll to be made and differing fictional effects based on the outcome of the roll.
 
 When a player describes their character doing something that triggers a move, that move happens and its rules apply. If the move requires a roll, its description will tell you what dice to roll and how to read their results.
@@ -35,7 +37,7 @@ The GM’s monsters, NPCs, and other assorted beasties also have moves, but they
 ### Moves and Dice
 Most moves include the phrase “roll+x” where “x” is one of your character’s ability modifiers (CON for example). Unless the move tells you otherwise, that “roll” always means that you roll two six-sided dice and add their results to the value of the modifier. Some moves will have you add some other value to your roll instead of an ability modifier.
 
-I’m making a move that asks me to roll+STR and my STR modifier is +1. I rolled two six-sided dice, got a one and a four. My total is six.
+*I’m making a move that asks me to roll+STR and my STR modifier is +1. I rolled two six-sided dice, got a one and a four. My total is six.*
 
 The results always fall into three basic categories. A total of 10 or higher (written 10+) is the best outcome. A total of 7–9 is still a success but it comes with compromises or cost. A 6 or lower is trouble, but you also get to mark XP.
 
@@ -103,7 +105,7 @@ Other sources of damage—like being struck by a chunk of a collapsing tower, or
 - It might break some bones: d8 damage
 - It could kill a common person: d10 damage
 
-Add the ignores armor tag if the source of the damage is particularly large or if the damage comes from magic or poison.
+Add the *ignores armor* tag if the source of the damage is particularly large or if the damage comes from magic or poison.
 
 Temporary or circumstantial armor works the same way as armor that you wear: 1 armor for partial cover, 2 armor for major cover.
 
@@ -116,7 +118,7 @@ It’s a brave monster that goes into battle alone. Most creatures fight with so
 
 If multiple creatures attack at once roll the highest damage among them and add +1 damage for each monster beyond the first.
 
-A goblin orkaster (d10+1 damage ignores armor) and three goblins (d6 damage) all throw their respective weapons—a magical acid orb for the orkaster, spears for the rest—at Lux as she assaults their barricade. I roll the highest damage, d10+1 ignores armor, and add +3 damage for the three other goblins. Adding it all up I tell Lux she takes 9 damage ignoring armor as the acid leaks into the scratches left by the spears.
+*A goblin orkaster (d10+1 damage ignores armor) and three goblins (d6 damage) all throw their respective weapons—a magical acid orb for the orkaster, spears for the rest—at Lux as she assaults their barricade. I roll the highest damage, d10+1 ignores armor, and add +3 damage for the three other goblins. Adding it all up I tell Lux she takes 9 damage ignoring armor as the acid leaks into the scratches left by the spears.*
 
 #### Stun Damage
 Stun damage is non-lethal damage. A PC who takes stun damage is defying danger to do anything at all, the danger being “you’re stunned.” This lasts as long as makes sense in the fiction—you’re stunned until you can get a chance to clear your head or fix whatever stunned you. A GM character that takes stun damage doesn’t count it against their HP but will act accordingly, staggering around for a few seconds, fumbling blindly, etc.
@@ -206,9 +208,9 @@ Advancement, like everything else in Dungeon World, is both prescriptive and des
 
 This isn’t a benefit or detriment to the players or the GM; it’s not an excuse to gain more powers or take them away. It’s just a reflection of life in Dungeon World.
 
-Avon, despite being a wizard, has risen to the notice of Lenoral, the deity of arcane knowledge. After being blessed by an avatar of Lenoral and saying his vows in the church, Avon is under the deity’s watch. He can fulfill Petitions and gain boons like a cleric.
+*Avon, despite being a wizard, has risen to the notice of Lenoral, the deity of arcane knowledge. After being blessed by an avatar of Lenoral and saying his vows in the church, Avon is under the deity’s watch. He can fulfill Petitions and gain boons like a cleric.*
 
-Gregor offers his signature weapon, an axe whose green steel is tempered in orc blood, as a desperate bargain to save King Authen from eternal damnation. Without his axe he gets none of the benefits of his signature weapon. Should he recover it he’ll have access to its benefits again.
+*Gregor offers his signature weapon, an axe whose green steel is tempered in orc blood, as a desperate bargain to save King Authen from eternal damnation. Without his axe he gets none of the benefits of his signature weapon. Should he recover it he’ll have access to its benefits again.*
 
 Descriptive changes only happen when the character has clearly gained access to an ability. It’s not up to any one player to decide this—if you think a character qualifies for a new ability, discuss it as a group.
 
@@ -230,9 +232,10 @@ A move that replaces another move can only be taken if you have the move it repl
 #### Beyond 10th Level
 Once you’ve reached 10th level things change a little. When you have enough XP to go to 11th level instead you choose one of these:
 
-Retire to safety
-Take on an apprentice
-Change entirely to a new class
+- Retire to safety
+- Take on an apprentice
+- Change entirely to a new class
+
 If you retire you create a new character to play instead and work with the GM to establish your place in the world. If you take on an apprentice you play a new character (the apprentice) alongside your current character, who stops gaining XP. Changing classes means keeping your ability scores, race, HP, and whatever moves you and the GM agree are core to who your character is. You lose all other class moves, replacing them with the starting moves of your new class.
 
 ## Bonds
@@ -252,13 +255,13 @@ You write a new bond whenever you resolve an old one. Your new bond may be with 
 
 When you write a new bond choose another character. Pick something relevant to the last session—maybe a place you traveled together or a treasure you discovered. Choose a thought or belief your character holds that ties the two together and an action, something you’re going to do about it. You’ll end up with something like this:
 
-Mouse’s quick thinking saved me from the white dragon we faced. I owe her a boon.
+*Mouse’s quick thinking saved me from the white dragon we faced. I owe her a boon.*
 
-Avon proved himself a coward in the dungeons of Xax’takar. He is a dangerous liability to the party and must be watched.
+*Avon proved himself a coward in the dungeons of Xax’takar. He is a dangerous liability to the party and must be watched.*
 
-Valeria’s kindness to the Gnomes of the Vale has swayed my heart, I will prove to her I am not the callous fiend she thinks I am.
+*Valeria’s kindness to the Gnomes of the Vale has swayed my heart, I will prove to her I am not the callous fiend she thinks I am.*
 
-Xotoq won the Bone-and-Whispers Axe through trickery! It will be mine, I swear it.
+*Xotoq won the Bone-and-Whispers Axe through trickery! It will be mine, I swear it.*
 
 These new bonds are just like the old ones—use them, resolve them, replace them.
 
@@ -281,39 +284,39 @@ Alignment can, and will, change. Usually such a change comes about as a gradual 
 In some cases a player character may switch alignment moves while still keeping the same alignment. This reflects a smaller shift, one of priority instead of a wholesale shift in thinking. They simply choose a new move for the same alignment from below and mention why their character now sees this as important.
 
 #### Lawful
-Uphold the letter of the law over the spirit
-Fulfill a promise of import
-Bring someone to justice
-Choose honor over personal gain
-Return treasure to its rightful owner
+- Uphold the letter of the law over the spirit
+- Fulfill a promise of import
+- Bring someone to justice
+- Choose honor over personal gain
+- Return treasure to its rightful owner
 #### Good
-Ignore danger to aid another
-Lead others into righteous battle
-Give up powers or riches for the greater good
-Reveal a dangerous lie
-Show mercy
+- Ignore danger to aid another
+- Lead others into righteous battle
+- Give up powers or riches for the greater good
+- Reveal a dangerous lie
+- Show mercy
 #### Neutral
-Make an ally of someone powerful
-Defeat a personally important foe
-Learn a secret about an enemy
-Uncover a hidden truth
+- Make an ally of someone powerful
+- Defeat a personally important foe
+- Learn a secret about an enemy
+- Uncover a hidden truth
 #### Chaotic
-Reveal corruption
-Break an unjust law to benefit another
-Defeat a tyrant
-Reveal hypocrisy
+- Reveal corruption
+- Break an unjust law to benefit another
+- Defeat a tyrant
+- Reveal hypocrisy
 #### Evil
-Take advantage of someone’s trust
-Cause suffering for its own sake
-Destroy something beautiful
-Upset the rightful order
-Harm an innocent
+- Take advantage of someone’s trust
+- Cause suffering for its own sake
+- Destroy something beautiful
+- Upset the rightful order
+- Harm an innocent
 ## Hirelings
 Hirelings are those sorry souls that—for money, glory, or stranger needs—venture along with adventurers into the gloom and danger. They are the foolhardy that seek to make their name as adventurers.
 
 Hirelings serve a few purposes. To the characters, they’re the help. They lend their strength to the player characters’ efforts in return for their pay. To the players, they’re a resource. They buy the characters some extra time against even the most frightening of threats. They’re also replacement characters, waiting to step up into the hero’s role when a player character falls. To the GM, they’re a human face for the characters to turn to, even in the depths of the earth or the far reaches of the planes.
 
-Hirelings are not heroes. A hireling may become a hero, as a replacement character, but until that time they’re just another GM character. As such their exact HP, armor, and damage aren’t particularly important. A hireling is defined by their Skill (or Skills) a Cost and a Loyalty score.
+Hirelings are not heroes. A hireling may become a hero, as a replacement character, but until that time they’re just another GM character. As such their exact HP, armor, and damage aren’t particularly important. A hireling is defined by their **Skill** (or Skills) a **Cost** and a **Loyalty score**.
 
 A hireling’s skill is a special benefit they provide to the players. Most skills are related to class abilities, allowing a hireling to fill in for a certain class. If you don’t have a ranger but you need to track the assassin’s route out of Torsea anyway, you need a Tracker. Each skill has a rank, usually from 1 to 10. The higher the rank the more trained the hireling. Generally hirelings only work for adventurers of equal or higher level than their highest skill.
 
@@ -323,70 +326,72 @@ No hireling works for free. The hireling’s cost is what it takes to keep them 
 
 When hirelings are in play, the players may have to make the Order Hirelings move. The move uses the loyalty of the hireling that triggered the move:
 
-Hirelings do what you tell them to, so long as it isn’t obviously dangerous, degrading, or stupid, and their cost is met. When a hireling find themselves in a dangerous, degrading, or just flat-out crazy situation due to your orders roll+loyalty. On a 10+ they stand firm and carry out the order. On a 7–9 they do it for now, but come back with serious demands later. Meet them or the hireling quits on the worst terms.
+---
+Hirelings do what you tell them to, so long as it isn’t obviously dangerous, degrading, or stupid, and their cost is met. **When a hireling find themselves in a dangerous, degrading, or just flat-out crazy situation due to your orders** roll+loyalty. On a 10+ they stand firm and carry out the order. On a 7–9 they do it for now, but come back with serious demands later. Meet them or the hireling quits on the worst terms.
 
-Making a Hireling
+---
+## Making a Hireling
 Hirelings are easy to make on the fly. When someone enters the players’ employ note down their name and what cost they’ve agreed to as well as any skills they may have.
 
 Start with a number based on where the hireling was found. Hirelings in villages start with 2–5. Town hirelings get 4–6. Keep hirelings are 5–8. City hirelings are 6–10. Distribute the hireling’s number between loyalty, a main skill, and zero or more secondary skills. Starting loyalty higher than 2 is unusual, as is starting loyalty below 0. Choose a cost for the hireling and you’re done.
 
 A hireling’s stats, especially their loyalty, may change during play as a reflection of events. A particular kindness or bonus from the players is worth +1 loyalty forward. Disrespect is -1 loyalty forward. If it’s been a while since their cost was last paid they get -1 loyalty ongoing until their cost is met. A hireling's loyalty may be permanently increased when they achieve some great deed with the players. A significant failure or beating may permanently lower the hireling’s loyalty.
 
-Costs
-The Thrill of Victory
-Money
-Uncovered Knowledge
-Fame and Glory
-Debauchery
-Good Accomplished
-Skills
+### Costs
+- The Thrill of Victory
+- Money
+- Uncovered Knowledge
+- Fame and Glory
+- Debauchery
+- Good Accomplished
+### Skills
 When you make a hireling, distribute points among one or more of these skills.
 
-Adept
+#### Adept
 An adept has at least apprenticed to an arcane expert, but is not powerful in their own right. They’re the grad students of the arcane world.
 
-Arcane Assistance—When an adept aids in the casting of a spell of lower level than their skill, the spell’s effects have greater range, duration, or potency. The exact effects depend on the situation and the spell and are up to the GM. The GM will describe what effects the assist will add before the spell is cast. The most important feature of casting with an adept is that any negative effects of the casting are focused on the adept first.
+*Arcane Assistance*—When an adept aids in the casting of a spell of lower level than their skill, the spell’s effects have greater range, duration, or potency. The exact effects depend on the situation and the spell and are up to the GM. The GM will describe what effects the assist will add before the spell is cast. The most important feature of casting with an adept is that any negative effects of the casting are focused on the adept first.
 
-Burglar
+#### Burglar
 Burglars are skilled in a variety of areas, most of them illicit or dangerous. They are good with devices and traps, but not too helpful in the field of battle.
 
-Experimental Trap Disarming—When a burglar leads the way they can detect traps almost in time. If a trap would be sprung while a burglar is leading the way the burglar suffers the full effects but the players get +skill against the trap and add the burglar’s skill to their armor against the trap. Most traps leave a burglar in need of immediate healing. If the players Make Camp near the trap, the burglar can disarm it by the time camp is broken.
+*Experimental Trap Disarming*—When a burglar leads the way they can detect traps almost in time. If a trap would be sprung while a burglar is leading the way the burglar suffers the full effects but the players get +skill against the trap and add the burglar’s skill to their armor against the trap. Most traps leave a burglar in need of immediate healing. If the players Make Camp near the trap, the burglar can disarm it by the time camp is broken.
 
-Minstrel
+#### Minstrel
 When a smiling face is needed to smooth things over or negotiate a deal a minstrel is always happy to lend their services for the proper price.
 
-A Hero’s Welcome—When you enter a place of food, drink, or entertainment with a minstrel you will be treated as a friend by everyone present (unless your actions prove otherwise). You also subtract the minstrel’s skill from all prices in town.
+*A Hero’s Welcome*—When you enter a place of food, drink, or entertainment with a minstrel you will be treated as a friend by everyone present (unless your actions prove otherwise). You also subtract the minstrel’s skill from all prices in town.
 
-Priest
+#### Priest
 Priests are the lower ranking clergy of a religion, performing minor offices and regular sacraments. While not granted spells themselves, they are able to call upon their deity for minor aid.
 
-Ministry—When you make camp with a priest if you would normally heal you heal +skill HP.
+*Ministry*—When you make camp with a priest if you would normally heal you heal +skill HP.
 
-First Aid—When a priest staunches your wounds heal 2×skill HP. You take -1 forward as their healing is painful and distracting.
+*First Aid*—When a priest staunches your wounds heal 2×skill HP. You take -1 forward as their healing is painful and distracting.
 
-Protector
+#### Protector
 A protector stands between their employer and the blades, fangs, teeth, and spells that would harm them.
 
-Sentry—When a protector stands between you and an attack you increase your armor against that attack by the defender’s skill, then reduce their skill by 1 until they receive healing or have time to mend.
+*Sentry*—When a protector stands between you and an attack you increase your armor against that attack by the defender’s skill, then reduce their skill by 1 until they receive healing or have time to mend.
 
-Intervene—When a protector helps you defy danger you may opt to take +1 from their aid. If you do you cannot get a 10+ result, a 10+ instead counts as a 7–9.
+*Intervene*—When a protector helps you defy danger you may opt to take +1 from their aid. If you do you cannot get a 10+ result, a 10+ instead counts as a 7–9.
 
-Tracker
+#### Tracker
 Trackers know the secrets of following a trail, but they don’t have the experience with strange creatures and exotic locales that make for a great hunter.
 
-Track—When a tracker is given time to study a trail while Making Camp, when camp is broken they can follow the trail to the next major change in terrain, travel, or weather.
+*Track*—When a tracker is given time to study a trail while Making Camp, when camp is broken they can follow the trail to the next major change in terrain, travel, or weather.
 
-Guide—When a tracker leads the way you automatically succeed on any Perilous Journey of a distance (in rations) lower than the tracker’s skill.
+*Guide*—When a tracker leads the way you automatically succeed on any Perilous Journey of a distance (in rations) lower than the tracker’s skill.
 
-Warrior
+#### Warrior
 Warriors are not masters of combat, but they are handy with a weapon.
 
-Man-at-arms—When you deal damage while a warrior aids you add their skill to the damage done. If your attack results in consequences (like a counter attack) the man-at-arms takes the brunt of it.
+*Man-at-arms*—When you deal damage while a warrior aids you add their skill to the damage done. If your attack results in consequences (like a counter attack) the man-at-arms takes the brunt of it.
 
-The Adventurer’s Life
+## The Adventurer’s Life
 Now you know the basics. It’s time you found out what the adventurer’s life is really like. They say it’s all gold and glory. That’s sometimes true, but sometimes it also means digging through otyugh waste for a chance at one more gold coin.
 
-Dungeons
+### Dungeons
 As an adventurer you’ll spend a lot of time in dungeons. The word “dungeon” conjures up an image of the stony halls under a castle where prisoners are kept, but a dungeon is really any place filled with danger and opportunity. A dragon’s cave, an enemy camp, a forgotten sewer, a sky castle, the very foundations of the world.
 
 The most important thing to remember when you’re in a dungeon is that it’s a living place. Just because you cleared the guards out of the entryway doesn’t mean they won’t be replaced by fresh recruits. Every monster, soldier, or leader you kill has friends, mates, followers, and spawn somewhere. Don’t count on anything in a dungeon.
@@ -399,7 +404,7 @@ When you’re unlucky enough to trigger a trap you might have a chance to get ou
 
 That sounds grim, sure, but it’s not as bad as all that. You’ve got steel, skills, and spells. If you stick together and keep your wits you’ll make it out alive. Probably.
 
-Monsters
+### Monsters
 The beasts and worse that fill dungeons? We call them monsters.
 
 Not all of them appear monstrous. Sometimes it’s just a guy in some armor—no horns, flames, or wings, nothing. But when that guy wants to kill you, well, he’s as much a monster as the rest.
@@ -414,14 +419,14 @@ Monsters generally fall into a few types. Humanoids are more or less like you—
 
 When you find yourself in a fight with a monster you have a few different tricks up your sleeve that can help you survive. If the monster’s something you might know about, you could consult your knowledge and spout lore. It never hurts to take a minute to look around and discern realities, too—there might be something helpful nearby that you missed. Make sure you understand your class moves and how they can help you, too. You never know when a move might come in handy in a new way.
 
-Wilderness
+### Wilderness
 There’s dungeons, there’s civilization, and there’s all the stuff in-between: the wilderness. The line between a forest and a dungeon is thinner than you might think—have you ever been lost in the night and surrounded by wolves?
 
 Journeys by road are easy. When you’ve got a trail to follow and some modicum of protection you’re not even making moves—you just consume some rations on the way and make it to your destination. If it’s a perilous journey though…
 
 On a perilous journey you’ll need a trailblazer, a scout, and a quartermaster. That means you’ll probably want at least three people when you’re traveling in dangerous areas. Fewer than three and you’ll be neglecting something—that’s an invitation for trouble.
 
-Friends and Enemies
+### Friends and Enemies
 You’re an adventurer, so people will pay attention to you. Not all of that attention is going to be positive. You’ll find that, especially once you’re laden down with ancient treasure, all manner of hangers-on will appear from the woodwork.
 
 Sure, you can get leverage on these people and parley them to get what you want, but the way to build a lasting connection is to do right by them. Forcing Duke Alhoro to give you a castle in return for his daughter will get you the land, but the reputation that comes along with your shady dealing won’t do you many favors. Coercion isn’t mind control, so play it nice if you want to make friends.
@@ -434,7 +439,7 @@ While you live the adventurer’s life, with no fixed address to give, other fol
 
 Keep in mind that not all power is physical. Even if you could take down King Arlon in a fight you’ll just be inviting retribution from his kin, allies, and court. Station is its own kind of power apart from magic and might.
 
-The World
+### The World
 You’re an adventurer; you’re a big deal. But there are other forces at work too. The world will go on without you. If you don’t deal with the goblin infestation in the sewers maybe someone else will. Or maybe the goblins will take over the city. Do you really want to find out?
 
 A world in motion is a world waiting to be changed. Your choices of who to kill (or not), where to go, what bargains to make—it all changes the world you’re in. Changing the world requires acting on it—making moves and pursuing treasure and exploration. Change comes in many forms, including XP used to level up and gain new abilities. Those abilities are then used to go back out into the world and stir things up. It’s a cycle of change and growth for both you and the world you live in.

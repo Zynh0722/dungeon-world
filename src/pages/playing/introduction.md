@@ -11,7 +11,7 @@ Adventurers take many shapes in Dungeon World. The races of elves, men, dwarves,
 
 It isn’t all easy heroics and noble bravery, though. Every time the ranger guides his friends through the ancient woods there are a hundred things waiting to bite his head off. Slavering hordes of goblin troops, maybe. Or is this the Cursed Wood, where dwells the Gray Witch? Or the throngs of hateful dead, looking to drag a meaty corpse back to their lair? Scary, sure, but there’s treasure, too. More gold and jewels and magic lost to man have fallen between the cracks in the world than you can imagine. Who better to retrieve it than a band of stalwart heroes?
 
-You and your friends are those heroes. You go where others can’t or won’t. There are monstrous things lurking in the world. Are you ready to face them?
+You and your friends *are* those heroes. You go where others can’t or won’t. There are monstrous things lurking in the world. Are you ready to face them?
 
 ## The Bard
 The poems say an adventurer’s life is all open roads and the glory of coin and combat. The tales told in every farmhand-filled inn have to have some ring of truth to them, don’t they? The songs to inspire peasantry and royals alike—to soothe the savage beast or drive men to a frenzy—have to come from somewhere.
@@ -80,11 +80,11 @@ Yeah. Didn’t think so.
 ## Why?
 Why play Dungeon World?
 
-First, to see the characters do amazing things. To see them explore the unexplored, slay the undying, and go from the deepest bowels of the world to the highest peaks of the heavens. To see them caught up in momentous events and grand tragedies.
+First, to see the characters do **amazing things**. To see them explore the unexplored, slay the undying, and go from the deepest bowels of the world to the highest peaks of the heavens. To see them caught up in momentous events and grand tragedies.
 
-Second, to see them struggle together. To gather as a party despite their differences and stand united against their foes, or to argue over treasure, debate battle plans, and join in righteous celebration over a victory hard-won.
+Second, to see them **struggle together**. To gather as a party despite their differences and stand united against their foes, or to argue over treasure, debate battle plans, and join in righteous celebration over a victory hard-won.
 
-Third, because the world still has so many places to explore. There are unlooted tombs and dragon hoards dotting the countryside just waiting for quick-fingered and strong-armed adventurers to discover them. That unexplored world has plans of its own. Play to see what they are and how they’ll change the lives of our characters.
+Third, because **the world still has so many places to explore**. There are unlooted tombs and dragon hoards dotting the countryside just waiting for quick-fingered and strong-armed adventurers to discover them. That unexplored world has plans of its own. Play to see what they are and how they’ll change the lives of our characters.
 
 ## How to Use This Book
 This book is going to teach you how to play Dungeon World. If you’re going to be the GM, you’re going to need to read the whole thing, though you can skim through the monster stats for now and save the Advanced Delving chapter for later. Try printing the play aids too, they’ll help you see what’s most important. If you’re a player, you might not need to read more than Playing the Game—a lot of the rules in Dungeon World will be contained in the character sheets you use during the game itself. You’ll come back to the text a few times throughout your game to refer to certain rules, but it should be a rare occasion.
