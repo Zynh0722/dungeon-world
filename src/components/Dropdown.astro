@@ -1,0 +1,19 @@
+---
+import DropdownArrow from "./DropdownArrow.astro";
+
+import { Dropdown as AstroNavDropdown, DropdownItems } from "astro-navbar";
+---
+
+<AstroNavDropdown class="group">
+  <button class="flex items-center">
+    <slot name="title" />
+    <DropdownArrow />
+  </button>
+  <DropdownItems class="relative">
+    <div class="absolute top-0 bg-white border-black border rounded">
+      <ul>
+        <slot />
+      </ul>
+    </div>
+  </DropdownItems>
+</AstroNavDropdown>
