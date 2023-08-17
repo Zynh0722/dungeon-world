@@ -33,21 +33,21 @@ Your maximum HP is 10+Constitution.
 Your base damage is d10.
 ## Starting Moves
 
-You are human, so you get this move.
+**You are human, so you get this move.**
 ### Human
 
-When you pray for guidance, even for a moment, and ask, “What here is evil?” the GM will tell you, honestly.
+When you **pray for guidance, even for a moment, and ask, “What here is evil?”** the GM will tell you, honestly.
 
-You start with these moves:
+**You start with these moves:**
 ### Lay on Hands (Cha)
 
-When you touch someone, skin to skin, and pray for their well-being , roll+CHA. • On a 10+ you heal 1d8 damage or remove one disease. • On a 7–9, they are healed, but the damage or disease is transferred to you.
+When you **touch someone, skin to skin, and pray for their well-being** , roll+CHA. • On a 10+ you heal 1d8 damage or remove one disease. • On a 7–9, they are healed, but the damage or disease is transferred to you.
 ### Armored
 
 You ignore the clumsy tag on armor you wear.
 ### I Am the Law
 
-When you give an NPC an order based on your divine authority, roll+CHA. • On a 7+, they choose one:
+When you **give an NPC an order based on your divine authority**, roll+CHA. • On a 7+, they choose one:
 
 - Do what you say
 - Back away cautiously, then flee
@@ -56,7 +56,7 @@ When you give an NPC an order based on your divine authority, roll+CHA. • On a
 • On a 10+, you also take +1 forward against them. • On a miss, they do as they please and you take -1 forward against them.
 ### Quest
 
-When you dedicate yourself to a mission through prayer and ritual cleansing, state what you set out to do:
+When you **dedicate yourself to a mission through prayer and ritual cleansing**, state what you set out to do:
 
 - Slay _______, a great blight on the land
 - Defend _______ from the iniquities that beset them
@@ -82,7 +82,7 @@ The GM will then tell you what vow or vows is required of you to maintain your b
 
 ## Alignment
 
-Choose an alignment:
+**Choose an alignment:**
 ### Lawful
 
 Deny mercy to a criminal or unbeliever.
@@ -114,7 +114,7 @@ I respect the beliefs of _______________ but hope they will someday see the true
 _______________ is a brave soul, I have much to learn from them.
 ## Advanced Moves
 
-When you gain a level from 2–5, choose from these moves.
+**When you gain a level from 2–5, choose from these moves.**
 ### Divine Favor
 
 Dedicate yourself to a deity (name a new one or choose one that’s already been established). You gain the commune and cast a spell cleric moves. When you select this move, treat yourself as a cleric of level 1 for using spells. Every time you gain a level thereafter, increase your effective cleric level by 1.
@@ -126,10 +126,10 @@ When you take damage you can grit your teeth and accept the blow. If you do you 
 While on a quest you deal +1d4 damage.
 ### Exterminatus
 
-When you speak aloud your promise to defeat an enemy, you deal +2d4 damage against that enemy and -4 damage against anyone else. This effect lasts until the enemy is defeated. If you fail to defeat the enemy or give up the fight, you can admit your failure, but the effect continues until you find a way to redeem yourself.
+When you **speak aloud your promise to defeat an enemy**, you deal +2d4 damage against that enemy and -4 damage against anyone else. This effect lasts until the enemy is defeated. If you fail to defeat the enemy or give up the fight, you can admit your failure, but the effect continues until you find a way to redeem yourself.
 ### Charge!
 
-When you lead the charge into combat, those you lead take +1 forward.
+When you **lead the charge into combat**, those you lead take +1 forward.
 ### Staunch Defender
 
 When you defend you always get +1 hold, even on a 6-.
@@ -146,45 +146,45 @@ Take +1 to order hirelings.
 
 When you heal an ally, you heal +1d8 damage.
 
-When you gain a level from 6–10, choose from these moves or the level 2–5 moves.
+**When you gain a level from 6–10, choose from these moves or the level 2–5 moves.**
 ### Evidence of Faith
 
-Requires: Divine Favor
+*Requires: Divine Favor*
 
-When you see divine magic as it happens, you can ask the GM which deity granted the spell and its effects. Take +1 when acting on the answers.
+When you **see divine magic as it happens**, you can ask the GM which deity granted the spell and its effects. Take +1 when acting on the answers.
 ### Holy Smite
 
-Replaces: Smite
+*Replaces: Smite*
 
 While on a quest you deal +1d8 damage.
 ### Ever Onward
 
-Replaces: Charge!
+*Replaces: Charge!*
 
 When you lead the charge into combat, those you lead take +1 forward and +2 armor forward.
 ### Impervious Defender
 
-Replaces: Staunch Defender
+*Replaces: Staunch Defender*
 
 When you defend you always get +1 hold, even on a 6-. When you get a 12+ to defend instead of getting hold the nearest attacking creature is stymied giving you a clear advantage, the GM will describe it.
 ### Tandem Strike
 
-Replaces: Setup Strike
+*Replaces: Setup Strike*
 
 When you hack and slash, choose an ally. Their next attack against your target does +1d4 damage and they take +1 forward against them.
 ### Divine Protection
 
-Replaces: Holy Protection
+*Replaces: Holy Protection*
 
 You get +2 armor while on a quest.
 ### Divine Authority
 
-Replaces: Voice of Authority
+*Replaces: Voice of Authority*
 
 Take +1 to order hirelings. When you roll a 12+ the hireling transcends their moment of fear and doubt and carries out your order with particular effectiveness or efficiency.
 ### Perfect Hospitaller
 
-Replaces: Hospitaller
+*Replaces: Hospitaller*
 
 When you heal an ally, you heal +2d8 damage.
 ### Indomitable
