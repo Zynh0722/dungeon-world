@@ -37,7 +37,7 @@ The GM’s monsters, NPCs, and other assorted beasties also have moves, but they
 ### Moves and Dice
 Most moves include the phrase “roll+x” where “x” is one of your character’s ability modifiers (CON for example). Unless the move tells you otherwise, that “roll” always means that you roll two six-sided dice and add their results to the value of the modifier. Some moves will have you add some other value to your roll instead of an ability modifier.
 
-*I’m making a move that asks me to roll+STR and my STR modifier is +1. I rolled two six-sided dice, got a one and a four. My total is six.*
+> *I’m making a move that asks me to roll+STR and my STR modifier is +1. I rolled two six-sided dice, got a one and a four. My total is six.*
 
 The results always fall into three basic categories. A total of 10 or higher (written 10+) is the best outcome. A total of 7–9 is still a success but it comes with compromises or cost. A 6 or lower is trouble, but you also get to mark XP.
 
@@ -118,7 +118,7 @@ It’s a brave monster that goes into battle alone. Most creatures fight with so
 
 If multiple creatures attack at once roll the highest damage among them and add +1 damage for each monster beyond the first.
 
-*A goblin orkaster (d10+1 damage ignores armor) and three goblins (d6 damage) all throw their respective weapons—a magical acid orb for the orkaster, spears for the rest—at Lux as she assaults their barricade. I roll the highest damage, d10+1 ignores armor, and add +3 damage for the three other goblins. Adding it all up I tell Lux she takes 9 damage ignoring armor as the acid leaks into the scratches left by the spears.*
+> *A goblin orkaster (d10+1 damage ignores armor) and three goblins (d6 damage) all throw their respective weapons—a magical acid orb for the orkaster, spears for the rest—at Lux as she assaults their barricade. I roll the highest damage, d10+1 ignores armor, and add +3 damage for the three other goblins. Adding it all up I tell Lux she takes 9 damage ignoring armor as the acid leaks into the scratches left by the spears.*
 
 #### Stun Damage
 Stun damage is non-lethal damage. A PC who takes stun damage is defying danger to do anything at all, the danger being “you’re stunned.” This lasts as long as makes sense in the fiction—you’re stunned until you can get a chance to clear your head or fix whatever stunned you. A GM character that takes stun damage doesn’t count it against their HP but will act accordingly, staggering around for a few seconds, fumbling blindly, etc.
@@ -208,9 +208,9 @@ Advancement, like everything else in Dungeon World, is both prescriptive and des
 
 This isn’t a benefit or detriment to the players or the GM; it’s not an excuse to gain more powers or take them away. It’s just a reflection of life in Dungeon World.
 
-*Avon, despite being a wizard, has risen to the notice of Lenoral, the deity of arcane knowledge. After being blessed by an avatar of Lenoral and saying his vows in the church, Avon is under the deity’s watch. He can fulfill Petitions and gain boons like a cleric.*
+> *Avon, despite being a wizard, has risen to the notice of Lenoral, the deity of arcane knowledge. After being blessed by an avatar of Lenoral and saying his vows in the church, Avon is under the deity’s watch. He can fulfill Petitions and gain boons like a cleric.*
 
-*Gregor offers his signature weapon, an axe whose green steel is tempered in orc blood, as a desperate bargain to save King Authen from eternal damnation. Without his axe he gets none of the benefits of his signature weapon. Should he recover it he’ll have access to its benefits again.*
+> *Gregor offers his signature weapon, an axe whose green steel is tempered in orc blood, as a desperate bargain to save King Authen from eternal damnation. Without his axe he gets none of the benefits of his signature weapon. Should he recover it he’ll have access to its benefits again.*
 
 Descriptive changes only happen when the character has clearly gained access to an ability. It’s not up to any one player to decide this—if you think a character qualifies for a new ability, discuss it as a group.
 
@@ -255,13 +255,13 @@ You write a new bond whenever you resolve an old one. Your new bond may be with 
 
 When you write a new bond choose another character. Pick something relevant to the last session—maybe a place you traveled together or a treasure you discovered. Choose a thought or belief your character holds that ties the two together and an action, something you’re going to do about it. You’ll end up with something like this:
 
-*Mouse’s quick thinking saved me from the white dragon we faced. I owe her a boon.*
+> *Mouse’s quick thinking saved me from the white dragon we faced. I owe her a boon.*
 
-*Avon proved himself a coward in the dungeons of Xax’takar. He is a dangerous liability to the party and must be watched.*
+> *Avon proved himself a coward in the dungeons of Xax’takar. He is a dangerous liability to the party and must be watched.*
 
-*Valeria’s kindness to the Gnomes of the Vale has swayed my heart, I will prove to her I am not the callous fiend she thinks I am.*
+> *Valeria’s kindness to the Gnomes of the Vale has swayed my heart, I will prove to her I am not the callous fiend she thinks I am.*
 
-*Xotoq won the Bone-and-Whispers Axe through trickery! It will be mine, I swear it.*
+> *Xotoq won the Bone-and-Whispers Axe through trickery! It will be mine, I swear it.*
 
 These new bonds are just like the old ones—use them, resolve them, replace them.
 
