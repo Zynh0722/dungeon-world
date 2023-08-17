@@ -21,7 +21,7 @@ Food or water you hold in your hands while you cast this spell is consecrated by
 The symbol of your deity appears before you and gestures towards the direction or course of action your deity would have you take then disappears. The message is through gesture only; your communication through this spell is severely limited.
 ## Level 1 Spells
 
-#### **Bless	Level 1 Ongoing**
+#### **Bless	Level 1 *Ongoing***
 
 Your deity smiles upon a combatant of your choice. They take +1 ongoing so long as battle continues and they stand and fight. While this spell is ongoing you take -1 to cast a spell.
 
@@ -33,11 +33,11 @@ At your touch wounds scab and bones cease to ache. Heal an ally you touch of 1d8
 
 When you cast this spell choose an alignment: Good, Evil, Lawful, or Chaotic. One of your senses is briefly able to detect that alignment. The GM will tell you what here is of that alignment.
 
-#### **Cause Fear	Level 1 Ongoing**
+#### **Cause Fear	Level 1 *Ongoing***
 
 Choose a target you can see and a nearby object. The target is afraid of the object so long as you maintain the spell. Their reaction is up to them: flee, panic, beg, fight. While this spell is ongoing you take -1 to cast a spell. You cannot target entities with less than animal intelligence (magical constructs, undead, automatons, and the like).
 
-#### **Magic Weapon	Level 1 Ongoing**
+#### **Magic Weapon	Level 1 *Ongoing***
 
 The weapon you hold while casting does +1d4 damage until you dismiss this spell. While this spell is ongoing you take -1 to cast a spell.
 
@@ -50,7 +50,7 @@ As you cast this spell, you walk the perimeter of an area, consecrating it to yo
 A corpse converses with you briefly. It will answer any three questions you pose to it to the best of the knowledge it had in life and the knowledge it gained in death.
 ## Level 3 Spells
 
-#### **Animate Dead	Level 3 Ongoing**
+#### **Animate Dead	Level 3 *Ongoing***
 
 You invoke a hungry spirit to possess a recently-dead body and serve you. This creates a zombie that follows your orders to the best of its limited abilities. Treat the zombie as a character, but with access to only the basic moves. It has a +1 modifier for all stats and 1 HP. The zombie also gets your choice of 1d4 of these traits:
 
@@ -65,7 +65,7 @@ The zombie lasts until it is destroyed by taking damage in excess of its HP, or 
 
 You staunch bleeding and set bones through magic. Heal an ally you touch of 2d8 damage.
 
-#### **Darkness	Level 3 Ongoing**
+#### **Darkness	Level 3 *Ongoing***
 
 Choose an area you can see: it’s filled with supernatural darkness and shadow. While this spell is ongoing you take -1 to cast a spell.
 
@@ -97,7 +97,7 @@ Heal an ally you touch of 3d8 damage.
 
 Name a person, place, or thing you want to learn about. Your deity grants you visions of the target, as clear as if you were there.
 
-#### **Contagion	Level 5 Ongoing**
+#### **Contagion	Level 5 *Ongoing***
 
 Choose a creature you can see. Until you end this spell, the target suffers from a disease of your choice. While this spell is ongoing you take -1 to cast a spell.
 
@@ -105,7 +105,7 @@ Choose a creature you can see. Until you end this spell, the target suffers from
 
 With a touch you speak to the spirits within things. The non-living object you touch answers three questions you pose, as best it can.
 
-#### **True Seeing	Level 5 Ongoing**
+#### **True Seeing	Level 5 *Ongoing***
 
 Your vision is opened to the true nature of everything you lay your eyes on. You pierce illusions and see things that have been hidden. The GM will describe the area before you ignoring any illusions and falsehoods, magical or otherwise. While this spell is ongoing you take -1 to cast a spell.
 
@@ -126,7 +126,7 @@ Touch an ally and you may heal their damage a number of points up to your maximu
 
 Touch an enemy and strike them with divine wrath—deal 2d8 damage to them and 1d6 damage to yourself. This damage ignores armor.
 
-#### **Sever	Level 7 Ongoing**
+#### **Sever	Level 7 *Ongoing***
 
 Choose an appendage on the target such as an arm, tentacle, or wing. The appendage is magically severed from their body, causing no damage but considerable pain. Missing an appendage may, for example, keep a winged creature from flying, or a bull from goring you on its horns. While this spell is ongoing you take -1 to cast a spell.
 
@@ -147,7 +147,7 @@ Your deity brings the unnatural weather of your choice to pass. Rain of blood or
 
 Choose one event in the target’s past. All effects of that event, including damage, poison, disease, and magical effects, are ended and repaired. HP and diseases are healed, poisons are neutralized, magical effects are ended.
 
-#### **Divine Presence	Level 9 Ongoing**
+#### **Divine Presence	Level 9 *Ongoing***
 
 Every creature must ask your leave to enter your presence, and you must give permission aloud for them to enter. Any creature without your leave takes an extra 1d10 damage whenever they take damage in your presence. While this spell is ongoing you take -1 to cast a spell.
 
@@ -155,6 +155,6 @@ Every creature must ask your leave to enter your presence, and you must give per
 
 The mindless undead creature you touch is destroyed and you steal its death energy to heal yourself or the next ally you touch. The amount of damage healed is equal to the HP that the creature had remaining before you destroyed it.
 
-#### **Plague	Level 9 Ongoing**
+#### **Plague	Level 9 *Ongoing***
 
 Name a city, town, encampment, or other place where people live. As long as this spell is active that place is beset by a plague appropriate to your deity’s domains (locusts, death of the first born, etc.) While this spell is ongoing you take -1 to cast a spell.
