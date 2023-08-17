@@ -5,16 +5,25 @@ title: "Immolator"
 
 # The Immolator
 
-I love the word 'burn'.
-Like imagine,
-Everything's burning,
-I am on fire,
-You're on fire,
-The world is on fire,
-And I find it beautiful.
-Burning beautiful.
-It's the burning out part that's scary.
-[Burning Beautiful](https://hellopoetry.com/poem/1212584/burning-beautiful/) by chuckae, Jun 2015
+> I love the word 'burn'.
+>
+> Like imagine,
+>
+> Everything's burning,
+>
+> I am on fire,
+>
+> You're on fire,
+>
+> The world is on fire,
+>
+> And I find it beautiful.
+>
+> Burning beautiful.
+>
+> It's the burning out part that's scary.
+>
+> [Burning Beautiful](https://hellopoetry.com/poem/1212584/burning-beautiful/) by *chuckae, Jun 2015*
 
 ## Names
 

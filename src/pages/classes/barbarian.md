@@ -6,19 +6,33 @@ title: "Barbarian"
 # The Barbarian
 
 > A harsh wind howls over the mountains
+>
 > But I stand tall, alone and unbowed
+>
 > With my wild hair and pelts
+>
 > I am the barbarian, fierce and proud
 >
+>
+>
 > No weapon can fell me, no man can best me
+>
 > For I vanquish all with my axe and my shield
+>
 > Flee now before my might and wrath
+>
 > To my power surrender, to my fury yield
 >
+>
+>
 > Like the wild north wind I come
+>
 > Laying low all in sight
+>
 > So cower in fear, you soft ones
+>
 > And flee fast into the night
+>
 > [The Barbarian](https://hellopoetry.com/poem/738832/the-barbarian/) by *Josiah Wilson, Jun 2014*
 
 ## Names
