@@ -5,7 +5,7 @@ title: "Advanced Delving"
 
 # Advanced Delving
 
-Dungeon World portrays a specific kind of fantasy adventure—one with elves and dwarves, heroes and villains, and characters struggling for riches and glory in a dangerous world. Maybe you’ve got an idea for something different—maybe your Dungeon World is set on a blasted desert planet, peopled by savage cannibals and ruled by haughty psychics. Or maybe you want to play a game where humans are the only race available, but they belong to clans or families as different from each other as a gnome is from a dwarf. All that is possible (and, in fact, encouraged) with a little effort. This chapter will explain how you can turn this Dungeon World into your Dungeon World.
+Dungeon World portrays a specific kind of fantasy adventure—one with elves and dwarves, heroes and villains, and characters struggling for riches and glory in a dangerous world. Maybe you’ve got an idea for something different—maybe your Dungeon World is set on a blasted desert planet, peopled by savage cannibals and ruled by haughty psychics. Or maybe you want to play a game where humans are the only race available, but they belong to clans or families as different from each other as a gnome is from a dwarf. All that is possible (and, in fact, encouraged) with a little effort. This chapter will explain how you can turn this Dungeon World into *your* Dungeon World.
 ## Making Moves
 
 The best place to start your journey into hacking Dungeon World is with the moves. Many of the fronts, dangers and other elements of your game will already contain custom moves, so it’s a natural, easy place to start. You might want to create moves to reflect the effects of some particular threat (“When you go alone into the Unhallowed Halls…”). You might create moves to cover something that’s particularly important to your setting (“When you swim in the dark waters…”). As you get more experienced you might create moves to expand a class or create your own class entirely.
@@ -35,12 +35,14 @@ Moves made by monsters against the players aren’t player moves at all. They’
 
 Your Dungeon World is full of fantastic things, right? You’re likely to find that some of those fantastic things deserve or demand custom moves to reflect exactly what they do. Consider this one from Chris Bennet:
 
-When you open a sewer hatch, roll+STR: • On a 10+, choose 2. • On a 7–9 choose 1.
+---
+When you **open a sewer hatch**, roll+STR: • On a 10+, choose 2. • On a 7–9 choose 1.
 
 - You avoid being covered in feces and rotting animal entrails from the sewers above.
 - You avoid having a gelatinous cube land on you.
 - You find a secret back entrance to where the merchant’s daughter is being held.
 
+---
 This move is strong because it is tied strongly to a particular place at a particular time. This move was written by request for Jason Morningstar’s Dungeon World game as the players entered some particularly horrible sewers to find a powerful merchant’s daughter. Two of the options here are very directly tied to that precise situation.
 
 Why would you write this move instead of just using defy danger? You wouldn’t, always. Opening a pressurized sewer hatch is certainly dangerous, you could use defy danger. This move does have the advantage of setting up the choices ahead of time. This is actually a very strong technique: if there’s a particular situation that is likely to cause defy danger, you can write a custom move that describes the tough choice to be made to save yourself some thinking in the moment.
@@ -50,8 +52,10 @@ The other strength of moves like this is they call out something as important. B
 
 Each class has enough moves to take it through tenth level but that doesn’t mean you can’t add more. Adding moves to a class can demonstrate your idea of Dungeon World. Take this one, for example:
 
-When you claim a room for your deity, mark every entrance and roll+WIS: • On a 10+, the room is peacebonded: no one can take action to cause physical harm within it. • On a 7–9, the room is peacebonded, but the show of divine power draws attention. You can dismiss the peacebond as you see fit.
+---
+When you **claim a room for your deity**, mark every entrance and roll+WIS: • On a 10+, the room is peacebonded: no one can take action to cause physical harm within it. • On a 7–9, the room is peacebonded, but the show of divine power draws attention. You can dismiss the peacebond as you see fit.
 
+---
 This move presents a slightly different side of Dungeon World, one that can demand peace (something that usually doesn’t come easily to PCs). This may not be right for every Dungeon World game, but it’s a great way to show how your Dungeon World looks, reflected in the characters.
 
 When adding a move, look carefully at what class it belongs to. Avoid giving a class moves that infringe on another class’s areas of expertise. If the thief can cast spells just as well as the wizard the wizard is likely to feel marginalized. This is why the multiclass moves act as one level lower, so that each class’s niche is somewhat protected.
@@ -86,11 +90,13 @@ A compendium class is a class only available to higher level characters who meet
 
 The basic structure of a compendium class is to have a starting move that is available only to characters who have had a certain experience, like this:
 
+---
 When you enter the bodily presence of a god or their avatar the next time you gain a level you can choose this move instead of a move from your class:
 ### Divine Bond
 
 When you write a new bond, instead of using the name of another character you can use the name of a deity you’ve had contact with. Anytime a bond with a deity applies to the current situation you can mark it off (as if it was resolved) to call on the deity’s favor in a clear and decisive way that the GM describes. At the end of the session you then replace the marked off bond with a new one, with a deity or player character.
 
+---
 Note that the move is only available after the character has done a specific thing, and even then only at their next level. Compendium classes are best when they rely on what the character has done, not stat prerequisites or anything that happens without the player’s action. A compendium class that is available to anyone who just gained 5th level doesn’t stand for much; one that only applies if you’ve been to Death’s Black Gates and lived to tell the tale is more interesting.
 
 A compendium class also usually has 2–3 moves that can be taken only if the starting move is taken. These are just like normal class moves, just with the requirement that you have to have already taken the starting compendium class move.
@@ -102,36 +108,40 @@ Adventure moves deal directly with the adventure underway. They can move the act
 
 If you’re running a short game, maybe at a convention or game day, you may find that you want to front-load the experience a little more. Here’s a move that covers “the adventure so far” so that you can get straight into a short game in media res.
 
+---
 Stalwart Fighter: As if the bandits weren’t bad enough! As if all the sword wounds, bruises and beatings at the hands of your enemies were insufficient—now this. Trapped underground with your adventuring companions when all you wanted was to return to the town and spend your well-earned bounty. No such luck, warrior. Sharpen that sword! Certainly, the others will need your protecting before safety is found. Just like last time. Once more into the breach, right? I swear, one of these fellows must owe you a favor or two by now…
 
 Have a look around and roll+CHA. • On a 10+, choose two party members. • On a 7–9, choose just one. • On a 6-, you’re surrounded by ingrates.
 
 At a moment of need, you can cash in a favor owed you by one of the party members chosen. They must change their action to one of your choosing, once. You may not give them an action that would involve them directly taking damage, giving up a magic item they already own or coming to immediate harm. Use it to make them agree with you, or give you that extra ration you want, or giving you their slot in the loot lottery. Leverage is sweet.
 
+---
 The most important part of this move is not the roll or the effect, but the information and tone. It sets the stage for a quick adventure and gives the player reading it a starting point to work with. The roll and result here are interesting, but don’t greatly change the flow of the game. Handing out a set of these, one to each player, along with a playbook, is a great way to run a con game.
 
 You can also adapt the End of Session move to reflect the adventure you’re running. When doing this it’s key that you show the players the new End of Session move. The goal isn’t to keep them in the dark about what earns XP, but to make the XP awards tie directly to this adventure.
 
+---
 When you end the session, instead of using the normal end of session questions, use these:
 
 - Did we learn something about the Cult of the Scaled God?
 - Did we rescue a captured villager or help defend the village of Secor?
 - Did we defeat a major agent of the Cult of the Scaled God?
 
+---
 ### Move Structure
 
 Moves always follow a similar structure. The most basic parts of a move are the trigger (“when…”) and the effect (“then…”). Every move follows this basic format.
 ### Triggers
 
-Triggers are often fictional actions undertaken by the player characters but they can also be part of character creation or trigger at the beginning or end of a session. Note that a trigger never deals with precise units of time. Don’t write a move that begins “When you start a round adjacent to a dragon.” There’s no rounds (and adjacent is maybe not the best phrasing, as it sounds removed from the fiction of standing next to a damned fire-breathing dragon). Prepare Spells isn’t “When you spend one hour studying your spellbook” for good reason. Time in Dungeon World is a bit fluid, like in a movie where pacing depends on the circumstances. Don’t rely on concrete units either around the table (rounds) or in the fiction (seconds, minutes, days).
+Triggers are often fictional actions undertaken by the player characters but they can also be part of character creation or trigger at the beginning or end of a session. Note that a trigger never deals with precise units of time. Don’t write a move that begins “When you start a round adjacent to a dragon.” There’s no rounds (and adjacent is maybe not the best phrasing, as it sounds removed from the fiction of *standing next to a damned fire-breathing dragon*). Prepare Spells isn’t “When you spend one hour studying your spellbook” for good reason. Time in Dungeon World is a bit fluid, like in a movie where pacing depends on the circumstances. Don’t rely on concrete units either around the table (rounds) or in the fiction (seconds, minutes, days).
 
 Here are some broad types of triggers:
 
-- When a character takes action. Examples: Discern Realities, Arcane Art (Bard), Command (Ranger).
-- When a character takes action under specific circumstances. Examples: Hack and Slash, Seeing Red (Fighter), Backstab (Thief).
-- When circumstances dictate, no character action. Examples: Order Hirelings, End of Session.
-- When a character uses a thing. Examples: Magic items, Heirloom (Fighter).
-- From now on. Examples: Serenity (Cleric), Poisoner (Thief).
+- **When a character takes action**. Examples: Discern Realities, Arcane Art (Bard), Command (Ranger).
+- **When a character takes action under specific circumstances**. Examples: Hack and Slash, Seeing Red (Fighter), Backstab (Thief).
+- **When circumstances dictate, no character action**. Examples: Order Hirelings, End of Session.
+- **When a character uses a thing**. Examples: Magic items, Heirloom (Fighter).
+- **From now on**. Examples: Serenity (Cleric), Poisoner (Thief).
 
 ### Effect
 
@@ -139,38 +149,43 @@ Moves effects can be anything you can think of; they are as limitless as your id
 
 Here are some broad types of effects, any given move may use more than one of them:
 
-- Roll. Examples: Defy Danger, Cast a Spell (Wizard), Called Shot (Ranger).
-- Substitute stats. Examples: Dwarf (Fighter).
-- Negate damage. Examples: Man's Best Friend (Ranger).
-- Give a bonus or penalty, forward or ongoing. Examples: Underdog (Thief), Smite (Paladin).
-- Deal or heal damage. Examples: Volley, Backstab (Thief), Arcane Art (Bard).
-- Choose options. Examples: Spout Lore, Discern Realities, Ritual (Wizard).
-- Hold & Spend. Examples: Dominate (Wizard spell), Trap Expert (Thief).
-- Ask & Answer. Examples: Charming and Open (Bard), Spout Lore.
-- Change circumstances. Examples: Reputation (Bard).
-- Mark experience. Examples: End of Session.
-- Call for more information. Examples: Parley, Ritual (Wizard).
-- Add options. Examples: Called Shot (Ranger).
+- *Roll*. Examples: Defy Danger, Cast a Spell (Wizard), Called Shot (Ranger).
+- *Substitute stats*. Examples: Dwarf (Fighter).
+- *Negate damage*. Examples: Man's Best Friend (Ranger).
+- *Give a bonus or penalty, forward or ongoing.* Examples: Underdog (Thief), Smite (Paladin).
+- *Deal or heal damage*. Examples: Volley, Backstab (Thief), Arcane Art (Bard).
+- *Choose options*. Examples: Spout Lore, Discern Realities, Ritual (Wizard).
+- *Hold & Spend*. Examples: Dominate (Wizard spell), Trap Expert (Thief).
+- *Ask & Answer*. Examples: Charming and Open (Bard), Spout Lore.
+- *Change circumstances*. Examples: Reputation (Bard).
+- *Mark experience*. Examples: End of Session.
+- *Call for more information*. Examples: Parley, Ritual (Wizard).
+- *Add options*. Examples: Called Shot (Ranger).
 
 ## Changing the Basics
 
 Moves can also change the basic structure of the game. Consider this one, to avoid the use of damage dice:
 
+---
 When you would deal damage, instead of rolling the dice, substitute each dice with the listed number. d4 becomes 2, d6 becomes 3, d8 becomes 4, d10 becomes 5, d12 becomes 6.
 
+---
 Moves like this change one of the basic features of the game. Be very careful with moves that muck with the fundamentals. Moves should never contradict the GM’s principles or agenda, or break the basic “take the action to gain the effect” rule.
 
 There are some parts of the game that are exceptionally easy to change. The amount of XP to level reflects our view, but you can easily make leveling more or less rare. As well, the kinds of things players are awarded XP for can be easily changed—if your game isn’t about exploring, fighting monsters and finding treasure, change the End of Session move to reflect that difference. Make sure to share it with your players before you start the game.
 
 Another basic that’s occasionally asked for is a way to make, say, fighting a dragon harder. The best answer here is that fighting a dragon is harder because the dragon is fictionally stronger. Just stabbing a dragon with a normal blade isn’t hack and slash because a typical blade can’t hurt it. If, however, that isn’t enough, consider this move from Vincent Baker, originally from Apocalypse World (reworded slightly to match Dungeon World rules):
 
+---
 When a player makes a move and the GM judges it especially difficult, the player takes -1 to the roll. When a player’s character makes a move and the GM judges it clearly beyond them, the player takes -2 to the roll.
 
+---
 The problem with this move is that the move no longer reflects anything concrete. Instead, the move is a prompt for the GM to make judgment calls with no clear framework. If you find yourself writing this custom move, consider what difficulty you’re really trying to capture and make a custom move for that instead. That said, this is a valid custom move, if you feel it’s needed.
 ## Development of a Move
 
 Let’s look at how one move developed over time. Hack and slash was one of the earliest Dungeon World moves, originally written by Tony Dowler. The first version looked like this (this version has been reformatted and edited for grammar only):
 
+---
 When you wade into combat, attacking your enemies, deal damage to the enemy you’re attacking, take that enemy’s damage, and roll+STR. • On a 10+, choose 2. • On a 7–9 choose 1.
 
 - Prevent one ally from taking damage this round
@@ -178,30 +193,39 @@ When you wade into combat, attacking your enemies, deal damage to the enemy you�
 - Put an enemy right where you want them (drive them off, prevent them from fleeing, etc.)
 - Divide your damage amongst any number of targets you can reach with your weapon
 
+---
 The first problem with this move is that one of the options, preventing damage, is far less useful than the others. Being able to outright kill an enemy is nearly always better than preventing that enemy from doing damage. The first major revision was to drop that option:
 
+---
 When you wade into combat, attacking your enemies, deal damage to the enemy you’re attacking, take that enemy’s damage, and roll+STR. • On a 10+ choose 2. • On a 7–9 choose 1.
 
 - Kill one enemy of lower level than you or deal max damage to otherwise
 - Put an enemy right where you want them (drive them off, prevent them from fleeing, etc.)
 - Divide your damage amongst any number of targets you can reach with your weapon
 
+---
 This left only three options which is a great number of options to have when a 10+ lets you pick two. The player making the move always had to not choose one option. All of the options are also clearly useful. But there’s still an issue, easily the biggest issue with this move: the fictional action doesn’t tightly relate to the outcome.
 
 Consider this situation: Gregor attacks an eagle lord with his mighty axe. He describes his fictional action: “I swing my axe right down on his wing with a big overhead chop.” Then he rolls the move, gets a 10, and makes his choices. Max damage is a clear choice and comes right from the fiction. The other options, however, don’t make much sense. If he chooses to divide his damage, how does that flow from his one fictional attack? How did that one chop also hit the treant behind him?
 
 Scoping down the fictional effect of the move lead to this version:
 
+---
 When you attack an enemy who can defend themselves, roll+STR. • On a 10+, you deal your damage but your enemy does not get to deal theirs to you. If you choose, you can take your enemy’s damage and deal double damage to the enemy. • On a 7–9, you take the enemy’s damage and deal your damage.
 
+---
 Here the move now has only the effects that could clearly follow from a single attack. Any action that couldn’t reasonably lead to a counterattack isn’t hack and slash, so now the trigger matches the effects. Unfortunately double damage was a bit much, so we changed it to this:
 
+---
 When you attack an enemy in melee, roll+STR. • On a 7–9, you deal your damage to the enemy and take their damage. • On a 10+ you deal your damage to the enemy. You can choose to also take the enemy’s damage to deal +2 damage.
 
+---
 +2 damage is a clear advantage, but not a game breaker. The only problem here is that it reduced the effects of an attack to taking damage. Monsters do so much more than just take away your HP; monsters hurl you about the room and destroy the ground you stand on, why can’t they do that in response?
 
+---
 When you attack an enemy in melee, roll+STR. • On a 10+, you deal your damage to the enemy and avoid their attack. At your option, you may choose to do +1d6 damage but expose yourself to the enemy’s attack. • On a 7–9, you deal your damage to the enemy and the enemy makes an attack against you.
 
+---
 This version (the final one) allows a monster to “attack” not just deal damage. That opens up a whole host of interesting monster moves to be used. +1d6 damage instead of +2 makes the choice more exciting (and slightly more powerful). The rewording adds clarity.
 ## The GM
 
@@ -209,19 +233,19 @@ Changing the GM’s side of the rules is an entirely different beast from writin
 
 Changing the GM’s agenda or principles is one of the biggest changes you can make to the game. Changing these areas will likely require changes throughout the rest of the game, plus playtesting to nail it all down.
 
-Play to find out what happens is the least changeable part of the GM’s agenda. Other options, like “play towards your set plot” or “play to challenge the players’ skills” will be resisted pretty strongly by the other rules. The moves give the players abilities that can change the course of an planned adventure quite quickly; if you’re not playing to find out what happens you’ll have to resist the moves at every step or rewrite many of them.
+**Play to find out what happens** is the least changeable part of the GM’s agenda. Other options, like “play towards your set plot” or “play to challenge the players’ skills” will be resisted pretty strongly by the other rules. The moves give the players abilities that can change the course of an planned adventure quite quickly; if you’re not playing to find out what happens you’ll have to resist the moves at every step or rewrite many of them.
 
-Fill the characters’ lives with adventure could be rephrased, but it’s hard to really change. “Fill the characters’ lives with intrigue” might work, but intrigue just seems like a type of adventure. Removing this agenda entirely will require major reworking since the move structure is based on this. The effects of a miss and the GM’s soft moves are all there to create a life of adventure.
+**Fill the characters’ lives with adventure** could be rephrased, but it’s hard to really change. “Fill the characters’ lives with intrigue” might work, but intrigue just seems like a type of adventure. Removing this agenda entirely will require major reworking since the move structure is based on this. The effects of a miss and the GM’s soft moves are all there to create a life of adventure.
 
-Portraying a fantastic world is maybe the easiest to change but it still requires considerable rewriting of the class moves. A historical world, a grim world, or a utopian world are all possible, but you’ll need to carefully rethink many moves. A historical world will require magic, equipment, and several other sections to be nearly entirely rewritten or removed. A grim world can only survive if the players’ moves come with darker costs. A utopian world won’t need many of the moves as written. Still, this is the easiest part of the agenda to change, since it requires changing the moves, not the basic structures of the game.
+**Portraying a fantastic world** is maybe the easiest to change but it still requires considerable rewriting of the class moves. A historical world, a grim world, or a utopian world are all possible, but you’ll need to carefully rethink many moves. A historical world will require magic, equipment, and several other sections to be nearly entirely rewritten or removed. A grim world can only survive if the players’ moves come with darker costs. A utopian world won’t need many of the moves as written. Still, this is the easiest part of the agenda to change, since it requires changing the moves, not the basic structures of the game.
 
-The GM’s principles are more mutable than the agenda but still can seriously change the game with only minor modifications. Address the characters, not the players; Make your move, but misdirect; Never speak the name of your move; Begin and end with the fiction; and Be a fan of the characters are the most important principles. Without these the conversation of play and the use of moves is likely to break down.
+The GM’s principles are more mutable than the agenda but still can seriously change the game with only minor modifications. **Address the characters, not the players; Make your move, but misdirect; Never speak the name of your move; Begin and end with the fiction;** and **Be a fan of the characters** are the most important principles. Without these the conversation of play and the use of moves is likely to break down.
 
-Embrace the fantastic; Give every monster life; Name every person; Think Dangerous; and Give them something to work towards are key to the spirit of Dungeon World and fantasy exploration. These are changeable, but they amount to changing the setting of the game. If you want to change any of these, you may have to make changes to all of them.
+**Embrace the fantastic; Give every monster life; Name every person; Think Dangerous;** and **Give them something to work towards** are key to the spirit of Dungeon World and fantasy exploration. These are changeable, but they amount to changing the setting of the game. If you want to change any of these, you may have to make changes to all of them.
 
-Leave Blanks; Sometimes, let them decide; and Ask questions and use the answers are important to running Dungeon World well. They also apply to many other games in the same style. The game will be diminished without them, but the conversation of play will continue. These are also some of the most portable principles, applicable to many other games. They may even work in games with very different play styles.
+**Leave Blanks; Sometimes, let them decide;** and **Ask questions and use the answers** are important to running Dungeon World well. They also apply to many other games in the same style. The game will be diminished without them, but the conversation of play will continue. These are also some of the most portable principles, applicable to many other games. They may even work in games with very different play styles.
 
-An additional principle that some people prefer to add is Test their bonds. This principle is entirely compatible with the others and with all the moves, but it changes the focus of the game somewhat. Fronts need to be rethought to work fully with this, and you might need to add moves that speak to it.
+An additional principle that some people prefer to add is **Test their bonds**. This principle is entirely compatible with the others and with all the moves, but it changes the focus of the game somewhat. Fronts need to be rethought to work fully with this, and you might need to add moves that speak to it.
 ## Monsters
 
 The easiest place to modify monsters is in the questions used to create them. The simplest changes have to do with adjusting lethality or randomness to your liking.

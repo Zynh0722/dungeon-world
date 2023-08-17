@@ -12,7 +12,7 @@ These are the comforts of civilization: a warm bath, a meal of mead and bread, t
 This chapter covers the wider world—the grand and sweeping scope outside the dungeon. The always marching movement of the GM’s fronts will shape the world and, in turn, the world reflects the actions the players take to stop or redirect them.
 ### Steadings
 
-We call all the assorted communities, holds, and so on where there’s a place to stay and some modicum of civilization steadings, as in “homestead.” Steadings are places with at least a handful of inhabitants, usually humans, and some stable structures. They can be as big as a capital city or as small as few ramshackle buildings.
+We call all the assorted communities, holds, and so on where there’s a place to stay and some modicum of civilization **steadings**, as in “homestead.” Steadings are places with at least a handful of inhabitants, usually humans, and some stable structures. They can be as big as a capital city or as small as few ramshackle buildings.
 ## Creating the world
 
 Remember how you started the first session? With action either underway or impending? At some point the characters are going to need to retreat from that action, either to heal their wounds or to celebrate and resupply.
@@ -43,7 +43,7 @@ From bustling trade center to sprawling metropolis, the city represents the larg
 
 Prosperity indicates what kinds of items are usually available. Population indicates the number of inhabitants relative to the current size of the steading. Defenses indicate the general scope of arms the steading has. Tags in these categories can be adjusted. -Category means to change the steading to the next lower tag for that category (so Moderate would become Poor with -Prosperity). +Category means to change the steading to the next higher tag (so Shrinking becomes Steady with +Population). Tags in those categories can also be compared like numbers. Treat the lowest tag in that category as 1 and each successive tag as the next number (so Dirt is 1, Poor is 2, etc.).
 
-Tags will change over the course of play. Creating a steading provides a snapshot of what that place looks like right now. As the players spend time in it and your fronts progress the world will change and your steadings with it.
+Tags will change over the course of play. Creating a steading provides a snapshot of what that place looks like *right now*. As the players spend time in it and your fronts progress the world will change and your steadings with it.
 ### Adding Steadings
 
 You add your first steading when you create the campaign map—it’s the place the players go to rest and recover. When you first draw it on the map all you need is a name and a location.
@@ -58,82 +58,82 @@ Whenever you add a new steading use the rules to decide its tags. Consider addin
 ### Steading Tags
 #### Prosperity
 
-Dirt: Nothing for sale, nobody has more than they need (and they’re lucky if they have that). Unskilled labor is cheap.
+*Dirt*: Nothing for sale, nobody has more than they need (and they’re lucky if they have that). Unskilled labor is cheap.
 
-Poor: Only the bare necessities for sale. Weapons are scarce unless the steading is heavily defended or militant. Unskilled labor is readily available.
+*Poor*: Only the bare necessities for sale. Weapons are scarce unless the steading is heavily defended or militant. Unskilled labor is readily available.
 
-Moderate: Most mundane items are available. Some types of skilled laborers.
+*Moderate*: Most mundane items are available. Some types of skilled laborers.
 
-Wealthy: Any mundane item can be found for sale. Most kinds of skilled laborers are available, but demand is high for their time.
+*Wealthy*: Any mundane item can be found for sale. Most kinds of skilled laborers are available, but demand is high for their time.
 
-Rich: Mundane items and more, if you know where to find them. Specialist labor available, but at high prices.
+*Rich*: Mundane items and more, if you know where to find them. Specialist labor available, but at high prices.
 #### Population
 
-Exodus: The steading has lost its population and is on the verge of collapse.
+*Exodus*: The steading has lost its population and is on the verge of collapse.
 
-Shrinking: The population is less than it once was. Buildings stand empty.
+*Shrinking*: The population is less than it once was. Buildings stand empty.
 
-Steady: The population is in line with the current size of the steading. Some slow growth.
+*Steady*: The population is in line with the current size of the steading. Some slow growth.
 
-Growing: More people than there are buildings.
+*Growing*: More people than there are buildings.
 
 Booming: Resources are stretched thin trying to keep up with the number of people.
 #### Defenses
 
-None: Clubs, torches, farming tools.
+*None*: Clubs, torches, farming tools.
 
-Militia: There are able-bodied men and women with worn weapons ready to be called, but no standing force.
+*Militia*: There are able-bodied men and women with worn weapons ready to be called, but no standing force.
 
-Watch: There are a few watchers posted who look out for trouble and settle small problems, but their main role is to summon the militia.
+*Watch*: There are a few watchers posted who look out for trouble and settle small problems, but their main role is to summon the militia.
 
-Guard: There are armed defenders at all times with a total pool of less than 100 (or equivalent). There is always at least one armed patrol about the steading.
+*Guard*: There are armed defenders at all times with a total pool of less than 100 (or equivalent). There is always at least one armed patrol about the steading.
 
-Garrison: There are armed defenders at all times with a total pool of 100–300 (or equivalent). There are multiple armed patrols at all times.
+*Garrison*: There are armed defenders at all times with a total pool of 100–300 (or equivalent). There are multiple armed patrols at all times.
 
-Battalion: As many as 1,000 armed defenders (or equivalent). The steading has manned maintained defenses as well.
+*Battalion*: As many as 1,000 armed defenders (or equivalent). The steading has manned maintained defenses as well.
 
-Legion: The steading is defended by thousands of armed soldiers (or equivalent). The steading’s defenses are intimidating.
+*Legion*: The steading is defended by thousands of armed soldiers (or equivalent). The steading’s defenses are intimidating.
 #### Other Tags
 
-Safe: Outside trouble doesn’t come here until the players bring it. Idyllic and often hidden, if the steading would lose or degrade another beneficial tag get rid of safe instead.
+*Safe*: Outside trouble doesn’t come here until the players bring it. Idyllic and often hidden, if the steading would lose or degrade another beneficial tag get rid of safe instead.
 
-Religion: The listed deity is revered here.
+*Religion*: The listed deity is revered here.
 
-Exotic: There are goods and services available here that aren’t available anywhere else nearby. List them.
+*Exotic*: There are goods and services available here that aren’t available anywhere else nearby. List them.
 
-Resource: The steading has easy access to the listed resource (e.g., a spice, a type of ore, fish, grapes). That resource is significantly cheaper.
+*Resource*: The steading has easy access to the listed resource (e.g., a spice, a type of ore, fish, grapes). That resource is significantly cheaper.
 
-Need: The steading has an acute or ongoing need for the listed resource. That resource sells for considerably more.
+*Need*: The steading has an acute or ongoing need for the listed resource. That resource sells for considerably more.
 
-Oath: The steading has sworn oaths to the listed steadings. These oaths are generally of fealty or support, but may be more specific.
+*Oath*: The steading has sworn oaths to the listed steadings. These oaths are generally of fealty or support, but may be more specific.
 
-Trade: The steading regularly trades with the listed steadings.
+*Trade*: The steading regularly trades with the listed steadings.
 
-Market: Everyone comes here to trade. On any given day the available items may be far beyond their prosperity. +1 to supply.
+*Market*: Everyone comes here to trade. On any given day the available items may be far beyond their prosperity. +1 to supply.
 
-Enmity: The steading holds a grudge against the listed steadings.
+*Enmity*: The steading holds a grudge against the listed steadings.
 
-History: Something important once happened here, choose one and detail or make up your own: battle, miracle, myth, romance, tragedy.
+*History*: Something important once happened here, choose one and detail or make up your own: battle, miracle, myth, romance, tragedy.
 
-Arcane: Someone in town can cast arcane spells for a price. This tends to draw more arcane casters, +1 to recruit when you put out word you’re looking for an adept.
+*Arcane*: Someone in town can cast arcane spells for a price. This tends to draw more arcane casters, +1 to recruit when you put out word you’re looking for an adept.
 
-Divine: There is a major religious presence, maybe a cathedral or monastery. They can heal and maybe even raise the dead for a donation or resolution of a quest. Take +1 to recruit priests here.
+*Divine*: There is a major religious presence, maybe a cathedral or monastery. They can heal and maybe even raise the dead for a donation or resolution of a quest. Take +1 to recruit priests here.
 
-Guild: The listed type of guild has a major presence (and usually a fair amount of influence). If the guild is closely associated with a type of hireling, +1 to recruit that type of hireling.
+*Guild*: The listed type of guild has a major presence (and usually a fair amount of influence). If the guild is closely associated with a type of hireling, +1 to recruit that type of hireling.
 
-Personage: There’s a notable person who makes their home here. Give them a name and a short note on why they’re notable.
+*Personage*: There’s a notable person who makes their home here. Give them a name and a short note on why they’re notable.
 
-Dwarven: The steading is significantly or entirely dwarves. Dwarven goods are more common and less expensive than they typically are.
+*Dwarven*: The steading is significantly or entirely dwarves. Dwarven goods are more common and less expensive than they typically are.
 
-Elven: The steading is significantly or entirely elves. Elven goods are more common and less expensive than they typically are.
+*Elven*: The steading is significantly or entirely elves. Elven goods are more common and less expensive than they typically are.
 
-Craft: The steading is known for excellence in the listed craft. Items of their chosen craft are more readily available here or of higher quality than found elsewhere.
+*Craft*: The steading is known for excellence in the listed craft. Items of their chosen craft are more readily available here or of higher quality than found elsewhere.
 
-Lawless: Crime is rampant; authority is weak.
+*Lawless*: Crime is rampant; authority is weak.
 
-Blight: The steading has a recurring problem, usually a type of monster.
+*Blight*: The steading has a recurring problem, usually a type of monster.
 
-Power: The steading holds sway of some type. Typically political, divine, or arcane.
+*Power*: The steading holds sway of some type. Typically political, divine, or arcane.
 ### Steading Names
 
 Graybark, Nook’s Crossing, Tanner’s Ford, Goldenfield, Barrowbridge, Rum River, Brindenburg, Shambles, Covaner, Enfield, Crystal Falls, Castle Daunting, Nulty’s Harbor, Castonshire, Cornwood, Irongate, Mayhill, Pigton, Crosses, Battlemoore, Torsea, Curland, Snowcalm, Seawall, Varlosh, Terminum, Avonia, Bucksburg, Settledown, Goblinjaw, Hammerford, Pit, The Gray Fast, Ennet Bend, Harrison’s Hold, Fortress Andwynne, Blackstone
@@ -233,37 +233,37 @@ The campaign map is updated between sessions or whenever the players spend signi
 Between each session check each of the conditions below. Go down the list and check each condition for all steadings before moving to the next. If a condition applies, apply its effects.
 #### Growth
 
-When a village or town is booming and its prosperity is above moderate you may reduce prosperity and defenses to move to the next largest type. New towns immediately gain market and new cities immediately gain guild (your choice).
+When **a village or town is booming and its prosperity is above moderate** you may reduce prosperity and defenses to move to the next largest type. New towns immediately gain market and new cities immediately gain guild (your choice).
 #### Collapse
 
-When a steading’s population is in exodus and its prosperity is poor or less it shrinks. A city becomes a town with a steady population and +prosperity. A keep becomes a town with +defenses and a steady population. A town becomes a village with steady population and +prosperity. A village becomes a ghost town.
+When **a steading’s population is in exodus and its prosperity is poor or less** it shrinks. A city becomes a town with a steady population and +prosperity. A keep becomes a town with +defenses and a steady population. A town becomes a village with steady population and +prosperity. A village becomes a ghost town.
 #### Want
 
-When a steading has a need that is not fulfilled (through trade, capture, or otherwise) that steading is in want. It gets either -prosperity, -population, or loses a tag based on that resource like craft or trade, your choice.
+When **a steading has a need that is not fulfilled** (through trade, capture, or otherwise) that steading is in want. It gets either -prosperity, -population, or loses a tag based on that resource like craft or trade, your choice.
 #### Trade
 
-When trade is blocked because the source of that trade is gone, the route is endangered, or political reasons, the steading has a choice: gain need (a traded good) or take -prosperity.
+When **trade is blocked** because the source of that trade is gone, the route is endangered, or political reasons, the steading has a choice: gain need (a traded good) or take -prosperity.
 #### Capture
 
-When control of a resource changes remove that resource from the tags of the previous owner and add it to the tags of the new owner (if applicable). If the previous owner has a craft or trade based on that resource they now have need (that resource). If the new owner had a need for that resource, remove it.
+When **control of a resource changes** remove that resource from the tags of the previous owner and add it to the tags of the new owner (if applicable). If the previous owner has a craft or trade based on that resource they now have need (that resource). If the new owner had a need for that resource, remove it.
 #### Profit
 
-When a steading has more trade than its current prosperity it gets +prosperity.
+When **a steading has more trade than its current prosperity** it gets +prosperity.
 #### Surplus
 
-When a steading has a resource that another steading needs unless enmity or other diplomatic reasons prevent it they set up trade. The steading with the resource gets +prosperity and their choice of oaths, +population, or +defenses; the steading with the need erases that need and adds trade.
+When **a steading has a resource that another steading needs** unless enmity or other diplomatic reasons prevent it they set up trade. The steading with the resource gets +prosperity and their choice of oaths, +population, or +defenses; the steading with the need erases that need and adds trade.
 #### Aid
 
-When a steading has oaths to a steading under attack that steading may take -defenses to give the steading under attack +defenses.
+When **a steading has oaths to a steading under attack** that steading may take -defenses to give the steading under attack +defenses.
 #### Embattled
 
-When a steading is surrounded by enemy forces it suffers losses. If it fights back with force it gets -defenses. If its new defenses are watch or less it also gets -prosperity. If it instead tries to wait out the attack it gets -population. If its new population is shrinking or less it loses a tag of your choice. If the steading’s defenses outclass the attacker’s (your call if it’s not clear, or make it part of an adventure front) the steading is no longer surrounded.
+When **a steading is surrounded by enemy forces** it suffers losses. If it fights back with force it gets -defenses. If its new defenses are watch or less it also gets -prosperity. If it instead tries to wait out the attack it gets -population. If its new population is shrinking or less it loses a tag of your choice. If the steading’s defenses outclass the attacker’s (your call if it’s not clear, or make it part of an adventure front) the steading is no longer surrounded.
 #### Opportunity
 
-When a steading has enmity against a weaker steading they may attack. Subtract the distance (in rations) between the steadings from the steading with enmity’s defenses. If the result is greater than the other steading’s defenses +defense for each step of size difference (village to town, town to keep, keep to city) they definitely attack. Otherwise it’s your call: has anything happened recently to stoke their anger? The forces of the attacker embattle the defender, while they maintain the attack they’re -defenses.
+When **a steading has enmity against a weaker steading** they may attack. Subtract the distance (in rations) between the steadings from the steading with enmity’s defenses. If the result is greater than the other steading’s defenses +defense for each step of size difference (village to town, town to keep, keep to city) they definitely attack. Otherwise it’s your call: has anything happened recently to stoke their anger? The forces of the attacker embattle the defender, while they maintain the attack they’re -defenses.
 #### Clash
 
-When two steadings both attack each other their forces meet somewhere between them and fight. If they’re evenly matched they both get -defenses and their troops return home. If one has the advantage they take -defenses while the other takes -2 defenses.
+When **two steadings both attack each other** their forces meet somewhere between them and fight. If they’re evenly matched they both get -defenses and their troops return home. If one has the advantage they take -defenses while the other takes -2 defenses.
 ### Other Updates
 
 The conditions above detail the most basic of interactions between steadings, of course the presence of your fronts and the players mean things can get far more complex. Since tags are descriptive, add them as needed to reflect the players’ actions and your fronts’ effects on the world.

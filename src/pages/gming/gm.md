@@ -12,7 +12,7 @@ The characters have rules to follow when they roll dice and take actions. The GM
 This chapter isn’t about advice for the GM or optional tips and tricks on how best to play Dungeon World. It’s a chapter with procedures and rules for whoever takes on the role of GM.
 ### GMing Dungeon World: A Framework
 
-Running a game of Dungeon World is built on these: the GM’s agenda, principles, and moves. The agenda is what you set out to do when you sit down at the table. The principles are the guides that keep you focused on that agenda. The GM’s moves are the concrete, moment-to-moment things you do to move the game forward. You’ll make moves when players miss their rolls, when the rules call for it, and whenever the players look to you to see what happens. Your moves keep the fiction consistent and the game’s action moving forward.
+Running a game of Dungeon World is built on these: the GM’s **agenda**, **principles**, and **moves**. The agenda is what you set out to do when you sit down at the table. The principles are the guides that keep you focused on that agenda. The GM’s moves are the concrete, moment-to-moment things you do to move the game forward. You’ll make moves when players miss their rolls, when the rules call for it, and whenever the players look to you to see what happens. Your moves keep the fiction consistent and the game’s action moving forward.
 
 The GM’s agenda, principles, and moves are rules just like damage or stats or HP. You should take the same care in altering them or ignoring them that you would with any other rule.
 ## How to GM
@@ -26,7 +26,7 @@ When you sit down at the table as a GM you do these things:
 
 The players have it easy—they just say what their characters say, think, and do. You have it a bit harder. You have to say everything else. What does that entail?
 
-First and foremost, you describe the immediate situation around the players at all times. This is how you start a session, how you get things rolling after a snack break, get back on track after a great joke: tell them what the situation is in concrete terms.
+First and foremost, you **describe the immediate situation around the players at all times**. This is how you start a session, how you get things rolling after a snack break, get back on track after a great joke: tell them what the situation is in concrete terms.
 
 Use detail and senses to draw them in. The situation isn’t just an orc charging you, it’s an orc painted in blood swinging a hammer and yelling bloody murder. You can leverage a lack of information, too. The sound of clattering armor and shuffling feet, for instance.
 
@@ -34,11 +34,11 @@ The situation around them is rarely “everything’s great, nothing to worry ab
 
 When you describe the situation, always end with “What do you do?” Dungeon World is about action and adventure! Portray a situation that demands a response.
 
-From the get-go make sure to follow the rules. This means your GM rules, sure, but also keep an eye on the players’ moves. It’s everyone’s responsibility to watch for when a move has been triggered, including you. Stop the players and ask if they mean to trigger the rules when it sounds like that’s what they’re doing.
+From the get-go make sure to **follow the rules**. This means your GM rules, sure, but also keep an eye on the players’ moves. It’s everyone’s responsibility to watch for when a move has been triggered, including you. Stop the players and ask if they mean to trigger the rules when it sounds like that’s what they’re doing.
 
-Part of following the rules is making moves. Your moves are different than player moves and we’ll describe them in detail in a bit. Your moves are specific things you can do to change the flow of the game.
+Part of following the rules is **making moves**. Your moves are different than player moves and we’ll describe them in detail in a bit. Your moves are specific things you can do to change the flow of the game.
 
-In all of these things, exploit your prep. At times you’ll know something the players don’t yet know. You can use that knowledge to help you make moves. Maybe the wizard tries to cast a spell and draws unwanted attention. They don’t know that the attention that just fell on them was the ominous gaze of a demon waiting two levels below, but you do.
+In all of these things, **exploit your prep**. At times you’ll know something the players don’t yet know. You can use that knowledge to help you make moves. Maybe the wizard tries to cast a spell and draws unwanted attention. They don’t know that the attention that just fell on them was the ominous gaze of a demon waiting two levels below, but you do.
 ## Agenda
 
 Your agenda makes up the things you aim to do at all times while GMing a game of Dungeon World:
@@ -49,13 +49,13 @@ Your agenda makes up the things you aim to do at all times while GMing a game of
 
 Everything you say and do at the table (and away from the table, too) exists to accomplish these three goals and no others. Things that aren’t on this list aren’t your goals. You’re not trying to beat the players or test their ability to solve complex traps. You’re not here to give the players a chance to explore your finely crafted setting. You’re not trying to kill the players (though monsters might be). You’re most certainly not here to tell everyone a planned-out story.
 
-Your first agenda is to portray a fantastic world. Dungeon World is all about guts, guile, and bravery against darkness and doom. It’s about characters who have decided to take up a life of adventure in the hopes of some glorious reward. It’s your job to participate in that by showing the players a world in which their characters can find that adventure. Without the player characters the world would fall into chaos or destruction—it might still even with them. It’s up to you to portray the fantastic elements of that world. Show the players the wonders of the world they’re in and encourage them to react to it.
+Your first agenda is to **portray a fantastic world**. Dungeon World is all about guts, guile, and bravery against darkness and doom. It’s about characters who have decided to take up a life of adventure in the hopes of some glorious reward. It’s your job to participate in that by showing the players a world in which their characters can find that adventure. Without the player characters the world would fall into chaos or destruction—it might still even with them. It’s up to you to portray the fantastic elements of that world. Show the players the wonders of the world they’re in and encourage them to react to it.
 
-Filling the characters’ lives with adventure means working with the players to create a world that’s engaging and dynamic. Adventurers are always caught up in some world-threatening danger or another—encourage and foster that kind of action in the game.
+**Filling the characters’ lives with adventure** means working with the players to create a world that’s engaging and dynamic. Adventurers are always caught up in some world-threatening danger or another—encourage and foster that kind of action in the game.
 
-Dungeon World adventures never presume player actions. A Dungeon World adventure portrays a setting in motion—someplace significant with creatures big and small pursuing their own goals. As the players come into conflict with that setting and its denizens, action is inevitable. You’ll honestly portray the repercussions of that action.
+Dungeon World adventures **never** presume player actions. A Dungeon World adventure portrays a setting in motion—someplace significant with creatures big and small pursuing their own goals. As the players come into conflict with that setting and its denizens, action is inevitable. You’ll honestly portray the repercussions of that action.
 
-This is how you play to find out what happens. You’re sharing in the fun of finding out how the characters react to and change the world you’re portraying. You’re all participants in a great adventure that’s unfolding. So really, don’t plan too hard. The rules of the game will fight you. It’s fun to see how things unfold, trust us.
+This is how you **play to find out what happens**. You’re sharing in the fun of finding out how the characters react to and change the world you’re portraying. You’re all participants in a great adventure that’s unfolding. So really, don’t plan too hard. The rules of the game will fight you. It’s fun to see how things unfold, trust us.
 
 ## Principles
 
@@ -154,7 +154,7 @@ Hard moves, on the other hand, have immediate consequences. Dealing damage is al
 When you have a chance to make a hard move you can opt for a soft one instead if it better fits the situation. Sometimes things just work out for the best.
 ### Choosing a Move
 
-To choose a move, start by looking at the obvious consequences of the action that triggered it. If you already have an idea, think on it for a second to make sure it fits your agenda and principles and then do it. Let your moves snowball. Build on the success or failure of the characters’ moves and on your own previous moves.
+To choose a move, start by looking at the obvious consequences of the action that triggered it. If you already have an idea, think on it for a second to make sure it fits your agenda and principles and then do it. **Let your moves snowball**. Build on the success or failure of the characters’ moves and on your own previous moves.
 
 If your first instinct is that this won’t hurt them now, but it’ll come back to bite them later, great! That’s part of your principles (think offscreen too). Make a note of and reveal it when the time is right.
 ### Making your Move

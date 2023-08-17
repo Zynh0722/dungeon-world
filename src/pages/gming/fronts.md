@@ -9,17 +9,17 @@ Fronts are secret tomes of GM knowledge. Each is a collection of linked dangers�
 
 Fronts are built outside of active play. They’re the solo fun that you get to have between games—rubbing your hands and cackling evilly to yourself as you craft the foes with which to challenge your PCs. You may tweak or adjust your fronts during play (who knows when inspiration will strike?) but the meat of them comes from preparation between sessions.
 
-Fronts are designed to help you organize your thoughts on what opposes the players. They’re here to contain your notes, ideas, and plans for these opposing forces. When you’re in a bind your fronts are where you’re going to turn and say, “Oh, so that’s what I should do.” Consider them an organizational tool, as inspiration for present and future mayhem.
+Fronts are designed to help you organize your thoughts on what opposes the players. They’re here to contain your notes, ideas, and plans for these opposing forces. When you’re in a bind your fronts are where you’re going to turn and say, “Oh, so *that’s* what I should do.” Consider them an organizational tool, as inspiration for present and future mayhem.
 
 When you’re building fronts, think about all the creepy dungeon denizens, the rampaging hordes and ancient cults that you’d like to see in your game. Think in broad strokes at first and then, as you build dangers into your fronts, you’ll be able to narrow those ideas down. When you write your campaign front, think about session-to-session trends. When you write your adventure fronts, think about what’s important right here and right now. When you’re done writing a few fronts you’ll be equipped with all the tools you’ll need to challenge your players and ready to run Dungeon World.
 ### When to Make Fronts
 
-You’ll make your campaign front and first adventure fronts after your first session. Your campaign front may not be complete when you first make it—that’s great! Just like blanks on a map, unknown parts of your campaign front are opportunities for future creativity.
+You’ll make your campaign front and first adventure fronts *after* your first session. Your campaign front may not be complete when you first make it—that’s great! Just like blanks on a map, unknown parts of your campaign front are opportunities for future creativity.
 
 After that first session you’ll also make some adventure fronts. One or two is usually a good number. If you find yourself with more adventure fronts consider leaving some possible fronts as just notes for now.
 ### Campaign and Adventure Fronts
 
-At their core, all fronts contain the same components. They sort and gather your dangers into easy-to-use clusters. There are, however, two different kinds of fronts available to you. On the session-to-session level there are your adventure fronts. These fronts will see use for a few sessions each. They’re tied to one problem and will be dealt with or cast aside as the characters wander the dungeon or uncover the plot at hand. Think of them as episodic content: “Today, on Dungeon World…”
+At their core, all fronts contain the same components. They sort and gather your dangers into easy-to-use clusters. There are, however, two different *kinds* of fronts available to you. On the session-to-session level there are your adventure fronts. These fronts will see use for a few sessions each. They’re tied to one problem and will be dealt with or cast aside as the characters wander the dungeon or uncover the plot at hand. Think of them as episodic content: “Today, on Dungeon World…”
 
 Tying your adventure fronts together is your campaign front. While the adventure fronts will contain immediate dangers—the orcs in Hargrosh Pass, say—the campaign front contains the Dark God Grishkar who drives the orcs to their pillaging. The campaign front is the unifying element that spans all the sessions of your Dungeon World game. It will have slower-burning portents but they’ll be bigger in scope and have a deeper impact on the world. Most importantly they’ll be scarier if they’re allowed to resolve.
 
@@ -37,35 +37,35 @@ Here’s how a front comes together:
 
 ## Creating Dangers
 
-Not every element of your game will warrant a danger—traps, some roving monsters, and other bits of ephemera may just be there to add context but aren’t important enough to warrant inclusion. That’s okay. Fronts are here to keep you apprised of the bigger picture. Dangers are divided into a handful of categories, each with its own name and impulse.
+Not every element of your game will warrant a danger—traps, some roving monsters, and other bits of ephemera may just be there to add context but aren’t important enough to warrant inclusion. That’s okay. Fronts are here to keep you apprised of the bigger picture. Dangers are divided into a handful of categories, each with its own name and *impulse*.
 
 Every danger has a crucial motivation that drives it called its impulse. The impulse exists to help you understand that danger. What pushes it to fulfill its impending doom? Impulses can help you translate the danger into action.
 
 When creating dangers for your front, think about how each one interacts as a facet of the front as a whole. Keep in mind the people, places, and things that might be a part of the threat to the world that the front represents. How does each danger contribute to the front?
 
-Let’s say we have an idea for a front—an ancient portal has been discovered in the icy north. We’ll call our front “The Opening of the White Gate.”
+> *Let’s say we have an idea for a front—an ancient portal has been discovered in the icy north. We’ll call our front “The Opening of the White Gate.”*
 
 The easiest place to start is with people and monsters. Cultists, ogre chieftains, demonic overlords, and the like are all excellent dangers. These are the creatures that have risen above mere monster status to become serious threats on their own. Groups of monsters can be dangers too—goblin tribes or a rampaging centaur khanate, for example.
 
-For the front we’re creating, we can pick a few different groups or people who might be interested in the gate. The College of Arcanists, perhaps. There’s a golem, too, we’ve decided, that protects the forgotten portal. The golem is just an obstacle, so we won’t make him a danger.
+> *For the front we’re creating, we can pick a few different groups or people who might be interested in the gate. The College of Arcanists, perhaps. There’s a golem, too, we’ve decided, that protects the forgotten portal. The golem is just an obstacle, so we won’t make him a danger.*
 
 Thinking more broadly, less obvious elements of the world can be dangers. Blasted landscapes, intelligent magical items, ancient spells woven into the fabric of time. These things fulfill the same purposes as a mad necromancer—they’re part of the front, a danger to the world.
 
-For our front, we’ll add the gate itself as a danger.
+> *For our front, we’ll add the gate itself as a danger.*
 
 Lastly, if we think ahead, we can include some overarching dangers. The sorts of things that are in play outside the realm of the obvious—godly patrons, hidden conspiracies and cursed prophecies waiting to be fulfilled.
 
-Perhaps the White Gate was carved in the ancient past, hidden by a race of angels until the Day of Judgement. We’ll add the Argent Seraphim to our front as a new danger.
+> *Perhaps the White Gate was carved in the ancient past, hidden by a race of angels until the Day of Judgement. We’ll add the Argent Seraphim to our front as a new danger.*
 
 There’s always more dangers you could add to a front, but limit yourself to 3 at most and leave room for discovery. Like a map, blank spaces can always be filled in later. Leaving room for player contribution and future inspiration means you’ll have freedom to alter the front and make it fit the game. Not every bad thing that could happen deserves to be made into a danger. If you’re uncertain, think about it this way: dangers can always get worse.
 
-A barbarian tribe near the gate, the frozen tundra itself, a band of rival adventurers; all these things could be dangerous elements of the game but they’re not important enough just yet to deserve to be dangers.
+> *A barbarian tribe near the gate, the frozen tundra itself, a band of rival adventurers; all these things could be dangerous elements of the game but they’re not important enough just yet to deserve to be dangers.*
 
 Creating dangers is a way to slice up your overall front concept into smaller, easier to manage pieces. Dangers are tools for adding detail to the right parts of the front and for making the front easier to manage in the long run.
 
 Once you’ve named and added a danger to the front you need to choose a type for that danger from the list below. Alternately, you can use the list of types to inspire dangers: with your front in mind, peruse the list and pick one or two that fit.
 
-For our three dangers (The College of Arcanists, The White Gate and the Argent Seraphim) we’ve selected Cabal, Dark Portal and Choir of Angels, respectively.
+> *For our three dangers (The College of Arcanists, The White Gate and the Argent Seraphim) we’ve selected Cabal, Dark Portal and Choir of Angels, respectively.*
 ## Types of Dangers
 
 - Ambitious Organizations
@@ -76,12 +76,12 @@ For our three dangers (The College of Arcanists, The White Gate and the Argent S
 
 ### Ambitious Organizations
 
-- Misguided Good (impulse: to do what is “right” no matter the cost)
-- Thieves Guild (impulse: to take by subterfuge)
-- Cult (impulse: to infest from within)
-- Religious Organization (impulse: to establish and follow doctrine)
-- Corrupt Government (impulse: to maintain the status quo)
-- Cabal (impulse: to absorb those in power, to grow)
+- Misguided Good (*impulse: to do what is “right” no matter the cost*)
+- Thieves Guild (*impulse: to take by subterfuge*)
+- Cult (*impulse: to infest from within*)
+- Religious Organization (*impulse: to establish and follow doctrine*)
+- Corrupt Government (*impulse: to maintain the status quo*)
+- Cabal (*impulse: to absorb those in power, to grow*)
 
 #### GM Moves for Ambitious Organizations
 
@@ -96,12 +96,12 @@ For our three dangers (The College of Arcanists, The White Gate and the Argent S
 
 ### Planar Forces
 
-- God (impulse: to gather worshippers)
-- Demon Prince (impulse: to open the gates of Hell)
-- Elemental Lord (impulse: to tear down creation to its component parts)
-- Force of Chaos (impulse: to destroy all semblance of order)
-- Choir of Angels (impulse: to pass judgement)
-- Construct of Law (impulse: to eliminate perceived disorder)
+- God (*impulse: to gather worshippers*)
+- Demon Prince (*impulse: to open the gates of Hell*)
+- Elemental Lord (*impulse: to tear down creation to its component parts*)
+- Force of Chaos (*impulse: to destroy all semblance of order*)
+- Choir of Angels (*impulse: to pass judgement*)
+- Construct of Law (*impulse: to eliminate perceived disorder*)
 
 #### GM Moves for Planar Forces
 
@@ -116,12 +116,12 @@ For our three dangers (The College of Arcanists, The White Gate and the Argent S
 
 ### Arcane Enemies
 
-- Lord of the Undead (impulse: to seek true immortality)
-- Power-mad Wizard (impulse: to seek magical power)
-- Sentient Artifact (impulse: to find a worthy wielder)
-- Ancient Curse (impulse: to ensnare)
-- Chosen One (impulse: to fulfill or resent their destiny)
-- Dragon (impulse: to hoard gold and jewels, to protect the clutch)
+- Lord of the Undead (*impulse: to seek true immortality*)
+- Power-mad Wizard (*impulse: to seek magical power*)
+- Sentient Artifact (*impulse: to find a worthy wielder*)
+- Ancient Curse (*impulse: to ensnare*)
+- Chosen One (*impulse: to fulfill or resent their destiny*)
+- Dragon (*impulse: to hoard gold and jewels, to protect the clutch*)
 
 #### GM Moves for Arcane Enemies
 
@@ -135,10 +135,10 @@ For our three dangers (The College of Arcanists, The White Gate and the Argent S
 
 ### Hordes
 
-- Wandering Barbarians (impulse: to grow strong, to drive their enemies before them)
-- Humanoid Vermin (impulse: to breed, to multiply and consume)
-- Underground Dwellers (impulse: to defend the complex from outsiders)
-- Plague of the Undead (impulse: to spread)
+- Wandering Barbarians (*impulse: to grow strong, to drive their enemies before them*)
+- Humanoid Vermin (*impulse: to breed, to multiply and consume*)
+- Underground Dwellers (*impulse: to defend the complex from outsiders*)
+- Plague of the Undead (*impulse: to spread*)
 
 #### GM Moves for Hordes
 
@@ -154,12 +154,12 @@ For our three dangers (The College of Arcanists, The White Gate and the Argent S
 
 ### Cursed Places
 
-- Abandoned Tower (impulse: to draw in the weak-willed)
-- Unholy Ground (impulse: to spawn evil)
-- Elemental Vortex (impulse: to grow, to tear apart reality)
-- Dark Portal (impulse: to disgorge demons)
-- Shadowland (impulse: to corrupt or consume the living)
-- Place of Power (impulse: to be controlled or tamed)
+- Abandoned Tower (*impulse: to draw in the weak-willed*)
+- Unholy Ground (*impulse: to spawn evil*)
+- Elemental Vortex (*impulse: to grow, to tear apart reality*)
+- Dark Portal (*impulse: to disgorge demons*)
+- Shadowland (*impulse: to corrupt or consume the living*)
+- Place of Power (*impulse: to be controlled or tamed*)
 
 #### GM Moves for Cursed Places
 
@@ -181,9 +181,9 @@ Write up something short to remind you just what this danger is about, something
 
 Sometimes a danger will suggest a move that isn’t covered by any existing ones. You can write custom moves to fill the gaps or to add the right effects for the danger. They can be player moves or GM moves, as you see fit. Of course, if you’re writing a player move, keep your hands off the dice and mind the basic structure of a move. A 10+ is a complete success, while a 7–9 is a partial success. On a miss, maybe the custom move does something specific, or maybe not—maybe you just get to make a move or work towards fulfilling a grim portent. The formatting of these moves varies from move to move.
 
-For the Opening of the White Gate, I just know some fool PC is going to end up in the light that spills from the gate, so I’m writing a move to show what might occur.
-
-When you stand in the presence of the Light From Beyond, roll+WIS: • On a 10+ you are judged worthy, the Argent Seraphim will grant you a vision or boon. • On a 7-9 you are under suspicion and see a vision of what dark fate might befall you if you do not correct your ways. • On a miss, thou art weighed in the balance and art found wanting.
+> *For the Opening of the White Gate, I just know some fool PC is going to end up in the light that spills from the gate, so I’m writing a move to show what might occur.*
+>
+> *When you stand in the presence of the Light From Beyond, roll+WIS: • On a 10+ you are judged worthy, the Argent Seraphim will grant you a vision or boon. • On a 7-9 you are under suspicion and see a vision of what dark fate might befall you if you do not correct your ways. • On a miss, thou art weighed in the balance and art found wanting.*
 ### Grim Portents
 
 Grim portents are dark designs for what could happen if a danger goes unchecked. Think about what would happen if the danger existed in the world but the PCs didn’t—if all these awful things you’ve conjured up had their run of the world. Scary, huh? The grim portents are your way to codify the plans and machinations of your dangers. A grim portent can be a single interesting event or a chain of steps. When you’re not sure what to do next, push your danger towards resolving a grim portent.
@@ -192,15 +192,15 @@ More often than not grim portents have a logical order. The orcs tear down the c
 
 Think of your grim portents as possible moves waiting in the wings. When the time is right, unleash them on the world.
 
-I’ve chosen a few grim portents for my new front.
+> *I’ve chosen a few grim portents for my new front.*
 
-- The College sends an expedition to the Gate
-- The Key is discovered
-- The First Trumpet sounds
-- A Champion is chosen
-- The Second Trumpet sounds
-- The Herald appears
-- The Gate is Opened
+- *The College sends an expedition to the Gate*
+- *The Key is discovered*
+- *The First Trumpet sounds*
+- *A Champion is chosen*
+- *The Second Trumpet sounds*
+- *The Herald appears*
+- *The Gate is Opened*
 
 When a grim portent comes to pass, check it off—the prophecy has come true! A grim portent that has come to pass might have ramifications for your other fronts, too. Have a quick look when your players aren’t demanding your attention and feel free to make changes. One small grim portent may resound across the whole campaign in subtle ways.
 
@@ -229,11 +229,11 @@ Playing to find out is one of the biggest rewards of playing Dungeon World. You�
 
 Once you have your stakes your front is ready to play.
 
-My stakes questions include, as tailored to my group:
+> *My stakes questions include, as tailored to my group:*
 
-- Who will be the champion?
-- How will Lux respond to the Light From Beyond?
-- Will the College be able to recruit Avon?
+- *Who will be the champion?*
+- *How will Lux respond to the Light From Beyond?*
+- *Will the College be able to recruit Avon?*
 
 ## Resolving a Front
 
@@ -257,7 +257,7 @@ When dealing with multiple adventure fronts the players are likely to prioritize
 ## Dangers
 ### The College of Arcanists (Cabal)
 
-Impulse: to absorb those in power, to grow
+**Impulse**: to absorb those in power, to grow
 #### Grim Portents
 
 - The College sends an expedition to the Gate
@@ -265,20 +265,20 @@ Impulse: to absorb those in power, to grow
 - The Gate’s Power is harnessed
 - The College seizes control
 
-Impending Doom: Usurpation
+**Impending Doom**: Usurpation
 ### The White Gate (Dark Portal)
 
-Impulse: to disgorge demons
+**Impulse**: to disgorge demons
 #### Grim Portents
 
 - The First Trumpet sounds
 - The Second Trumpet sounds
 - The Gate is opened
 
-Impending Doom: Destruction
+**Impending Doom**: Destruction
 ### The Argent Seraphim (Choir of Angels)
 
-Impulse: to pass judgement
+**Impulse**: to pass judgement
 #### Grim Portents
 
 - A Champion is chosen
@@ -286,7 +286,7 @@ Impulse: to pass judgement
 - The Herald appears
 - Judgement is passed
 
-Impending Doom: Tyranny
+**Impending Doom**: Tyranny
 ## Description and Cast
 
 An ancient gate, buried for aeons in the icy north. It opens into a realm of pure light, guarded by the Argent Seraphim. It was crafted only to be opened at Judgement Day, so that the Seraphim could come forth and purge the realm of men. It was recently uncovered by the College of Arcanists, who do not yet understand its terrible power.
@@ -297,7 +297,7 @@ An ancient gate, buried for aeons in the icy north. It opens into a realm of pur
 
 ## Custom Moves
 
-When you stand in the presence of the Light From Beyond, roll+WIS. • On a 10+ you are judged worthy, the Argent Seraphim will grant you a vision or boon. • On a 7-9 you are under suspicion and see a vision of what dark fate might befall you if you do not correct your ways. • On a miss, thou art weighed in the balance and art found wanting.
+When you **stand in the presence of the Light From Beyond**, roll+WIS. • On a 10+ you are judged worthy, the Argent Seraphim will grant you a vision or boon. • On a 7-9 you are under suspicion and see a vision of what dark fate might befall you if you do not correct your ways. • On a miss, thou art weighed in the balance and art found wanting.
 ## Stakes
 
 - Who will be the Champion?

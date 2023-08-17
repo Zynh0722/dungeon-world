@@ -38,13 +38,13 @@ You should also set expectations: the players are to play their characters as pe
 
 Some questions commonly come up during character creation. You should be ready to answer them:
 
-Are the characters friends? No, not necessarily, but they do work together as a team for common goals. Their reasons for pursuing those goals may be different, but they manage to work together.
+*Are the characters friends?* No, not necessarily, but they do work together as a team for common goals. Their reasons for pursuing those goals may be different, but they manage to work together.
 
-Are there other wizards? Not really. There are other workers of arcane magic, and the common folk may call them wizards, but they’re not like you. They don’t have the same abilities, though they may be similar. Later on there may be another player character with the same class but no GM character will ever really be a wizard (or any other class).
+*Are there other wizards?* Not really. There are other workers of arcane magic, and the common folk may call them wizards, but they’re not like you. They don’t have the same abilities, though they may be similar. Later on there may be another player character with the same class but no GM character will ever really be a wizard (or any other class).
 
-What’s coin? Coin’s the currency of the realm. It’s good pretty much everywhere. It’ll buy you mundane stuff, like steel swords and wooden staves. The special stuff, like magic weapons, isn’t for sale. Not for coin, anyway…
+*What’s coin?* Coin’s the currency of the realm. It’s good pretty much everywhere. It’ll buy you mundane stuff, like steel swords and wooden staves. The special stuff, like magic weapons, isn’t for sale. Not for coin, anyway…
 
-Is the GM trying to kill us? No. The GM’s job is to portray the world and the things in it and the world is a very dangerous place. You might die. That doesn’t mean the GM is out to get you.
+*Is the GM trying to kill us?* No. The GM’s job is to portray the world and the things in it and the world is a very dangerous place. You might die. That doesn’t mean the GM is out to get you.
 
 During this entire process, especially character creation, ask questions. Look for interesting facts established by the characters’ bonds, moves, classes, and descriptions and ask about those things. Be curious! When someone mentions the demons that slaughtered their village find out more about them. After all, you don’t have anything (except maybe a dungeon) and everything they give you is fuel for future adventures.
 
