@@ -14,13 +14,13 @@ You do this for the guts and the glory. The scream of battle and the hot, hot bl
 You are the wall—let every danger smash itself to nothing on you. In the end, you’ll be the last one standing.
 ## Names
 
-Dwarf: Ozruk, Surtur, Brunhilda, Annika, Janos, Greta, Dim, Rundrig, Jarl, Xotoq
+*Dwarf*: Ozruk, Surtur, Brunhilda, Annika, Janos, Greta, Dim, Rundrig, Jarl, Xotoq
 
-Elf: Elohiir, Sharaseth, Hasrith, Shevaral, Cadeus, Eldar, Kithracet, Thelian
+*Elf*: Elohiir, Sharaseth, Hasrith, Shevaral, Cadeus, Eldar, Kithracet, Thelian
 
-Halfling: Finnegan, Olive, Randolph, Bartleby, Aubrey, Baldwin, Becca
+*Halfling*: Finnegan, Olive, Randolph, Bartleby, Aubrey, Baldwin, Becca
 
-Human: Hawke, Rudiger, Gregor, Brianne, Walton, Castor, Shanna, Ajax, Hob
+*Human*: Hawke, Rudiger, Gregor, Brianne, Walton, Castor, Shanna, Ajax, Hob
 ## Look
 
 Choose one for each:
@@ -39,24 +39,24 @@ Your maximum HP is 10+Constitution.
 Your base damage is d10.
 ## Starting Moves
 
-Choose a race and gain the corresponding move:
+**Choose a race and gain the corresponding move:**
 ### Dwarf
 
-When you share a drink with someone, you may parley with them using CON instead of CHA.
+When you **share a drink with someone**, you may parley with them using CON instead of CHA.
 ### Elf
 
 Choose one weapon—you can always treat weapons of that type as if they had the precise tag.
 ### Halfling
 
-When you defy danger and use your small size to your advantage, take +1.
+When you defy danger and **use your small size to your advantage**, take +1.
 ### Human
 
 Once per battle you may reroll a single damage roll (yours or someone else’s).
 
-You start with these moves:
+**You start with these moves:**
 ### Bend Bars, Lift Gates
 
-When you use pure strength to destroy an inanimate obstacle, roll+STR. • On a 10+, choose 3. • On a 7-9 choose 2.
+When you **use pure strength to destroy an inanimate obstacle**, roll+STR. • On a 10+, choose 3. • On a 7-9 choose 2.
 
 - It doesn’t take a very long time
 - Nothing of value is damaged
@@ -106,7 +106,7 @@ Choose a look:
 
 ## Alignment
 
-Choose an alignment:
+**Choose an alignment:**
 ### Good
 
 Defend those weaker than you.
@@ -143,16 +143,16 @@ I worry about the ability of _______________ to survive in the dungeon.
 _______________ is soft, but I will make them hard like me.
 ## Advanced Moves
 
-When you gain a level from 2-5, choose from these moves.
+**When you gain a level from 2-5, choose from these moves.**
 ### Merciless
 
 When you deal damage, deal +1d4 damage.
 ### Heirloom
 
-When you consult the spirits that reside within your signature weapon, they will give you an insight relating to the current situation, and might ask you some questions in return, roll+CHA. • On a 10+, the GM will give you good detail. • On a 7-9, the GM will give you an impression.
+When you **consult the spirits that reside within your signature weapon**, they will give you an insight relating to the current situation, and might ask you some questions in return, roll+CHA. • On a 10+, the GM will give you good detail. • On a 7-9, the GM will give you an impression.
 ### Armor Mastery
 
-When you make your armor take the brunt of damage dealt to you, the damage is negated but you must reduce the armor value of your armor or shield (your choice) by 1. The value is reduced each time you make this choice. If the reduction leaves the item with 0 armor it is destroyed.
+When you **make your armor take the brunt of damage dealt to you**, the damage is negated but you must reduce the armor value of your armor or shield (your choice) by 1. The value is reduced each time you make this choice. If the reduction leaves the item with 0 armor it is destroyed.
 ### Improved Weapon
 
 Choose one extra enhancement for your signature weapon.
@@ -161,7 +161,7 @@ Choose one extra enhancement for your signature weapon.
 When you discern realities during combat, you take +1.
 ### Interrogator
 
-When you parley using threats of impending violence as leverage, you may use STR instead of CHA.
+When you **parley using threats of impending violence as leverage**, you may use STR instead of CHA.
 ### Scent of Blood
 
 When you hack and slash an enemy, your next attack against that same foe deals +1d4 damage.
@@ -175,40 +175,40 @@ You gain +1 armor.
 
 When you have access to a forge you can graft the magical powers of a weapon onto your signature weapon. This process destroys the magical weapon. Your signature weapon gains the magical powers of the destroyed weapon.
 
-When you gain a level from 6-10, choose from these moves or the level 2-5 moves.
+**When you gain a level from 6-10, choose from these moves or the level 2-5 moves.**
 ### Bloodthirsty
 
-Replaces: Merciless
+*Replaces: Merciless*
 
 When you deal damage, deal +1d8 damage.
 ### Armored Perfection
 
-Replaces: Armor Mastery
+*Replaces: Armor Mastery*
 
-When you choose to let your armor take the brunt of damage dealt to you, the damage is negated and you take +1 forward against the attacker, but you must reduce the armor value of your armor or shield (your choice) by 1. The value is reduced each time you make this choice. If the reduction leaves the item with 0 armor it is destroyed.
+When you **choose to let your armor take the brunt of damage dealt to you**, the damage is negated and you take +1 forward against the attacker, but you must reduce the armor value of your armor or shield (your choice) by 1. The value is reduced each time you make this choice. If the reduction leaves the item with 0 armor it is destroyed.
 ### Evil Eye
 
-Requires: Seeing Red
+*Requires: Seeing Red*
 
-When you enter combat, roll+CHA. • On a 10+, hold 2. • On a 7-9, hold 1. Spend your hold to make eye contact with an NPC present, who freezes or flinches and can’t act until you break it off. • On a 6-, your enemies immediately identify you as their biggest threat.
+When you **enter combat**, roll+CHA. • On a 10+, hold 2. • On a 7-9, hold 1. Spend your hold to make eye contact with an NPC present, who freezes or flinches and can’t act until you break it off. • On a 6-, your enemies immediately identify you as their biggest threat.
 ### Taste of Blood
 
-Replaces: Scent of Blood
+*Replaces: Scent of Blood*
 
 When you hack and slash an enemy, your next attack against that same foe deals +1d8 damage.
 ### Multiclass Initiate
 
-Requires: Multiclass Dabbler
+*Requires: Multiclass Dabbler*
 
 Get one move from another class. Treat your level as one lower for choosing the move.
 ### Steel Hide
 
-Replaces: Iron Hide
+*Replaces: Iron Hide*
 
 You gain +2 armor.
 ### Through Death’s Eyes
 
-When you go into battle, roll+WIS. • On a 10+, name someone who will live and someone who will die. • On a 7-9, name someone who will live or someone who will die. Name NPCs, not player characters. The GM will make your vision come true, if it’s even remotely possible. • On a 6- you see your own death and consequently take -1 ongoing throughout the battle.
+When you **go into battle**, roll+WIS. • On a 10+, name someone who will live **and** someone who will die. • On a 7-9, name someone who will live **or** someone who will die. Name NPCs, not player characters. The GM will make your vision come true, if it’s even remotely possible. • On a 6- you see your own death and consequently take -1 ongoing throughout the battle.
 ### Eye for Weaponry
 
 When you look over an enemy’s weaponry, ask the GM how much damage they do.
