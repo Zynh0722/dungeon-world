@@ -13,6 +13,7 @@ title: "Barbarian"
 >
 > I am the barbarian, fierce and proud
 >
+> &nbsp;
 >
 >
 > No weapon can fell me, no man can best me
@@ -23,6 +24,7 @@ title: "Barbarian"
 >
 > To my power surrender, to my fury yield
 >
+> &nbsp;
 >
 >
 > Like the wild north wind I come
@@ -32,6 +34,8 @@ title: "Barbarian"
 > So cower in fear, you soft ones
 >
 > And flee fast into the night
+>
+> &nbsp;
 >
 > [The Barbarian](https://hellopoetry.com/poem/738832/the-barbarian/) by *Josiah Wilson, Jun 2014*
 
@@ -101,7 +105,6 @@ Eschew a convention of the civilized world.
 ### Gear
 
 Your load is 8+STR.
-
 Dungeon rations (5 uses, 1 weight).
 
 Dagger (hand, 1 weight)
