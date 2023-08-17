@@ -175,7 +175,7 @@ When you **defy a danger caused by movement** (maybe falling off a narrow bridge
 As long as you have less than your CON in current HP (or 1, whichever is higher) take +1 ongoing.
 ### Kill ‘Em All
 
-Requires: Appetite for Destruction
+*Requires: Appetite for Destruction*
 
 Take another move fromt he Fighter, Bard, or Thief class list. You may not take multiclass moves from those classes.
 ### War Cry
