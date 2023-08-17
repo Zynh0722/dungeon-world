@@ -39,6 +39,9 @@ module.exports = {
           paddingRight: theme('spacing.4'),
           border: theme('spacing[0.5]') + " solid " + theme('colors.neutral.400'),
         },
+        'th': {
+          backgroundColor: theme('colors.neutral.300'),
+        },
         'hr': {
           marginTop: theme('spacing.1'),
           marginBottom: theme('spacing.1'),
