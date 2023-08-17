@@ -1,5 +1,6 @@
 ---
 import DropdownArrow from "./DropdownArrow.astro";
+import DropdownItem from "./DropdownItem.astro";
 
 import {
   Astronav,
@@ -7,7 +8,6 @@ import {
   MenuIcon,
   Dropdown,
   DropdownItems,
-  DropdownSubmenu,
 } from "astro-navbar";
 ---
 
@@ -30,30 +30,22 @@ import {
             <DropdownItems class="relative">
               <div class="absolute top-0 bg-white border-black border rounded">
                 <ul>
-                  <a href="/playing/introduction">
-                    <li class="hover:bg-blue-500 p-1">Introduction</li>
-                  </a>
-                  <a href="/playing/playing_the_game">
-                    <li class="hover:bg-blue-500 p-1">
-                      Playing&nbsp;the&nbsp;Game
-                    </li>
-                  </a>
-                  <a href="/playing/example_of_play">
-                    <li class="hover:bg-blue-500 p-1">
-                      Example&nbsp;of&nbsp;Play
-                    </li>
-                  </a>
-                  <a href="/playing/character_creation">
-                    <li class="hover:bg-blue-500 p-1">
-                      Character&nbsp;Creation
-                    </li>
-                  </a>
-                  <a href="/playing/moves">
-                    <li class="hover:bg-blue-500 p-1">Moves</li>
-                  </a>
-                  <a href="/playing/equipment">
-                    <li class="hover:bg-blue-500 p-1">Equipment</li>
-                  </a>
+                  <DropdownItem href="/playing/introduction">
+                    Introduction
+                  </DropdownItem>
+                  <DropdownItem href="/playing/playing_the_game">
+                    Playing the Game
+                  </DropdownItem>
+                  <DropdownItem href="/playing/example_of_play">
+                    Example of Play
+                  </DropdownItem>
+                  <DropdownItem href="/playing/character_creation">
+                    Character Creation
+                  </DropdownItem>
+                  <DropdownItem href="/playing/moves">Moves</DropdownItem>
+                  <DropdownItem href="/playing/equipment">
+                    Equipment
+                  </DropdownItem>
                 </ul>
               </div>
             </DropdownItems>
@@ -68,36 +60,20 @@ import {
             <DropdownItems class="relative">
               <div class="absolute top-0 bg-white border-black border rounded">
                 <ul>
-                  <a href="/classes/barbarian">
-                    <li class="hover:bg-blue-500 p-1">Barbarian</li>
-                  </a>
-                  <a href="/classes/bard">
-                    <li class="hover:bg-blue-500 p-1">Bard</li>
-                  </a>
-                  <a href="/classes/cleric">
-                    <li class="hover:bg-blue-500 p-1">Cleric</li>
-                  </a>
-                  <a href="/classes/druid">
-                    <li class="hover:bg-blue-500 p-1">Druid</li>
-                  </a>
-                  <a href="/classes/fighter">
-                    <li class="hover:bg-blue-500 p-1">Fighter</li>
-                  </a>
-                  <a href="/classes/immolator">
-                    <li class="hover:bg-blue-500 p-1">Immolator</li>
-                  </a>
-                  <a href="/classes/paladin">
-                    <li class="hover:bg-blue-500 p-1">Paladin</li>
-                  </a>
-                  <a href="/classes/ranger">
-                    <li class="hover:bg-blue-500 p-1">Ranger</li>
-                  </a>
-                  <a href="/classes/thief">
-                    <li class="hover:bg-blue-500 p-1">Thief</li>
-                  </a>
-                  <a href="/classes/wizard">
-                    <li class="hover:bg-blue-500 p-1">Wizard</li>
-                  </a>
+                  <DropdownItem href="/classes/barbarian">
+                    Barbarian
+                  </DropdownItem>
+                  <DropdownItem href="/classes/bard">Bard</DropdownItem>
+                  <DropdownItem href="/classes/cleric">Cleric</DropdownItem>
+                  <DropdownItem href="/classes/druid">Druid</DropdownItem>
+                  <DropdownItem href="/classes/fighter">Fighter</DropdownItem>
+                  <DropdownItem href="/classes/immolator">
+                    Immolator
+                  </DropdownItem>
+                  <DropdownItem href="/classes/paladin">Paladin</DropdownItem>
+                  <DropdownItem href="/classes/ranger">Ranger</DropdownItem>
+                  <DropdownItem href="/classes/thief">Thief</DropdownItem>
+                  <DropdownItem href="/classes/wizard">Wizard</DropdownItem>
                 </ul>
               </div>
             </DropdownItems>
@@ -112,21 +88,15 @@ import {
             <DropdownItems class="relative">
               <div class="absolute top-0 bg-white border-black border rounded">
                 <ul>
-                  <a href="/gming/gm">
-                    <li class="hover:bg-blue-500 p-1">GM</li>
-                  </a>
-                  <a href="/gming/first_session">
-                    <li class="hover:bg-blue-500 p-1">First&nbsp;Session</li>
-                  </a>
-                  <a href="/gming/fronts">
-                    <li class="hover:bg-blue-500 p-1">Fronts</li>
-                  </a>
-                  <a href="/gming/the_world">
-                    <li class="hover:bg-blue-500 p-1">The&nbsp;World</li>
-                  </a>
-                  <a href="/gming/advanced_delving">
-                    <li class="hover:bg-blue-500 p-1">Advanced&nbsp;Delving</li>
-                  </a>
+                  <DropdownItem href="/gming/gm">GM</DropdownItem>
+                  <DropdownItem href="/gming/first_session">
+                    First Session
+                  </DropdownItem>
+                  <DropdownItem href="/gming/fronts">Fronts</DropdownItem>
+                  <DropdownItem href="/gming/the_world">The World</DropdownItem>
+                  <DropdownItem href="/gming/advanced_delving">
+                    Advanced Delving
+                  </DropdownItem>
                 </ul>
               </div>
             </DropdownItems>
@@ -141,38 +111,36 @@ import {
             <DropdownItems class="relative">
               <div class="absolute top-0 bg-white border-black border rounded">
                 <ul>
-                  <a href="/monsters/overview">
-                    <li class="hover:bg-blue-500 p-1">Overview</li>
-                  </a>
-                  <a href="/monsters/cavern_dwellers">
-                    <li class="hover:bg-blue-500 p-1">Cavern&nbsp;Dwellers</li>
-                  </a>
-                  <a href="/monsters/swamp_denizens">
-                    <li class="hover:bg-blue-500 p-1">Swamp&nbsp;Denizens</li>
-                  </a>
-                  <a href="/monsters/undead_legions">
-                    <li class="hover:bg-blue-500 p-1">Undead&nbsp;Legions</li>
-                  </a>
-                  <a href="/monsters/dark_woods">
-                    <li class="hover:bg-blue-500 p-1">Dark&nbsp;Woods</li>
-                  </a>
-                  <a href="/monsters/ravenous_hordes">
-                    <li class="hover:bg-blue-500 p-1">Ravenous&nbsp;Hordes</li>
-                  </a>
-                  <a href="/monsters/twisted_experiments">
-                    <li class="hover:bg-blue-500 p-1">
-                      Twisted&nbsp;Experiments
-                    </li>
-                  </a>
-                  <a href="/monsters/lower_depths">
-                    <li class="hover:bg-blue-500 p-1">Lower Depths</li>
-                  </a>
-                  <a href="/monsters/planar_powers">
-                    <li class="hover:bg-blue-500 p-1">Planar Powers</li>
-                  </a>
-                  <a href="/monsters/folk_of_the_realm">
-                    <li class="hover:bg-blue-500 p-1">Folk of the Realm</li>
-                  </a>
+                  <DropdownItem href="/monsters/overview">
+                    Overview
+                  </DropdownItem>
+                  <DropdownItem href="/monsters/cavern_dwellers">
+                    Cavern Dwellers
+                  </DropdownItem>
+                  <DropdownItem href="/monsters/swamp_denizens">
+                    Swamp Denizens
+                  </DropdownItem>
+                  <DropdownItem href="/monsters/undead_legions">
+                    Undead Legions
+                  </DropdownItem>
+                  <DropdownItem href="/monsters/dark_woods">
+                    Dark Woods
+                  </DropdownItem>
+                  <DropdownItem href="/monsters/ravenous_hordes">
+                    Ravenous Hordes
+                  </DropdownItem>
+                  <DropdownItem href="/monsters/twisted_experiments">
+                    Twisted Experiments
+                  </DropdownItem>
+                  <DropdownItem href="/monsters/lower_depths">
+                    Lower Depths
+                  </DropdownItem>
+                  <DropdownItem href="/monsters/planar_powers">
+                    Planar Powers
+                  </DropdownItem>
+                  <DropdownItem href="/monsters/folk_of_the_realm">
+                    Folk of the Realm
+                  </DropdownItem>
                 </ul>
               </div>
             </DropdownItems>
@@ -187,12 +155,8 @@ import {
             <DropdownItems class="relative">
               <div class="absolute top-0 bg-white border-black border rounded">
                 <ul>
-                  <a href="/spells/wizard">
-                    <li class="hover:bg-blue-500 p-1">Wizard</li>
-                  </a>
-                  <a href="/spells/cleric">
-                    <li class="hover:bg-blue-500 p-1">Cleric</li>
-                  </a>
+                  <DropdownItem href="/spells/wizard">Wizard</DropdownItem>
+                  <DropdownItem href="/spells/cleric">Cleric</DropdownItem>
                 </ul>
               </div>
             </DropdownItems>
@@ -207,21 +171,19 @@ import {
             <DropdownItems class="relative">
               <div class="absolute top-0 bg-white border-black border rounded">
                 <ul>
-                  <a href="/appendices/thanks">
-                    <li class="hover:bg-blue-500 p-1">Thanks</li>
-                  </a>
-                  <a href="/appendices/teaching_the_game">
-                    <li class="hover:bg-blue-500 p-1">Teaching</li>
-                  </a>
-                  <a href="/appendices/adventure_conversion">
-                    <li class="hover:bg-blue-500 p-1">Conversion</li>
-                  </a>
-                  <a href="/appendices/instant_npcs">
-                    <li class="hover:bg-blue-500 p-1">Instant&nbsp;NPCs</li>
-                  </a>
-                  <a href="/appendices/tag_reference">
-                    <li class="hover:bg-blue-500 p-1">Tag&nbsp;Reference</li>
-                  </a>
+                  <DropdownItem href="/appendices/thanks">Thanks</DropdownItem>
+                  <DropdownItem href="/appendices/teaching_the_game">
+                    Teaching
+                  </DropdownItem>
+                  <DropdownItem href="/appendices/adventure_conversion">
+                    Conversion
+                  </DropdownItem>
+                  <DropdownItem href="/appendices/instant_npcs">
+                    Instant NPCs
+                  </DropdownItem>
+                  <DropdownItem href="/appendices/tag_reference">
+                    Tag Reference
+                  </DropdownItem>
                 </ul>
               </div>
             </DropdownItems>

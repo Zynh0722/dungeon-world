@@ -1,0 +1,9 @@
+---
+let href = Astro.props.href || "/";
+---
+
+<a href={href}>
+  <li class="hover:bg-blue-500 p-1 whitespace-nowrap">
+    <slot />
+  </li>
+</a>
