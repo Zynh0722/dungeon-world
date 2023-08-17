@@ -1,28 +1,21 @@
 ---
-import DropdownArrow from "./DropdownArrow.astro";
 import DropdownItem from "./DropdownItem.astro";
 
 import TempDropdown from "./Dropdown.astro";
 
-import {
-  Astronav,
-  MenuItems,
-  MenuIcon,
-  Dropdown,
-  DropdownItems,
-} from "astro-navbar";
+import { Astronav, MenuItems, MenuIcon } from "astro-navbar";
 ---
 
-<header class="lg:flex p-5 gap-5">
+<header class="nav:flex p-5 gap-5">
   <Astronav closeOnClick>
-    <div class="flex w-full lg:w-auto justify-between">
+    <div class="flex w-full nav:w-auto justify-between">
       <a href="/">Dungeon World</a>
-      <div class="block lg:hidden">
+      <div class="block nav:hidden">
         <MenuIcon class="w-4 h-4 text-gray-800" />
       </div>
     </div>
-    <MenuItems class="hidden lg:flex">
-      <ul class="flex flex-col lg:flex-row lg:gap-5">
+    <MenuItems class="hidden nav:flex">
+      <ul class="flex flex-col nav:flex-row nav:gap-5">
         <li>
           <TempDropdown class="group">
             <span slot="title">Playing&nbsp;</span>
