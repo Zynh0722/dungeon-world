@@ -256,11 +256,11 @@ You write a new bond whenever you resolve an old one. Your new bond may be with 
 When you write a new bond choose another character. Pick something relevant to the last session—maybe a place you traveled together or a treasure you discovered. Choose a thought or belief your character holds that ties the two together and an action, something you’re going to do about it. You’ll end up with something like this:
 
 > *Mouse’s quick thinking saved me from the white dragon we faced. I owe her a boon.*
-
+>
 > *Avon proved himself a coward in the dungeons of Xax’takar. He is a dangerous liability to the party and must be watched.*
-
+>
 > *Valeria’s kindness to the Gnomes of the Vale has swayed my heart, I will prove to her I am not the callous fiend she thinks I am.*
-
+>
 > *Xotoq won the Bone-and-Whispers Axe through trickery! It will be mine, I swear it.*
 
 These new bonds are just like the old ones—use them, resolve them, replace them.
