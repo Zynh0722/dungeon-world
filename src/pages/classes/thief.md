@@ -1,6 +1,6 @@
 ---
 layout: "../../layouts/GenericPage.astro"
-title: "Ranger"
+title: "Thief"
 ---
 
 # The Thief
