@@ -1,6 +1,8 @@
 ---
 layout: "../../layouts/GenericPage.astro"
 title: "Barbarian"
+externalContent: true
+source: "http://book.dwgazetteer.com/barbarian.html"
 ---
 
 # The Barbarian

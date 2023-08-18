@@ -1,6 +1,8 @@
 ---
 layout: "../../layouts/GenericPage.astro"
 title: "Immolator"
+externalContent: true
+source: "http://book.dwgazetteer.com/immolator.html"
 ---
 
 # The Immolator
