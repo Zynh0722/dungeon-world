@@ -6,12 +6,12 @@ import sortGlob from "../utilites/sortGlob";
 import { Astronav, MenuItems, MenuIcon } from "astro-navbar";
 
 const content = {
-  appendices: await Astro.glob("/src/pages/appendices/*"),
-  classes: await Astro.glob("/src/pages/classes/*"),
-  gming: await Astro.glob("/src/pages/gming/*"),
-  monsters: await Astro.glob("/src/pages/monsters/*"),
-  playing: await Astro.glob("/src/pages/playing/*"),
-  spells: await Astro.glob("/src/pages/spells/*"),
+  Playing: await Astro.glob("/src/pages/playing/*"),
+  Classes: await Astro.glob("/src/pages/classes/*"),
+  Spells: await Astro.glob("/src/pages/spells/*"),
+  GMing: await Astro.glob("/src/pages/gming/*"),
+  Monsters: await Astro.glob("/src/pages/monsters/*"),
+  Appendices: await Astro.glob("/src/pages/appendices/*"),
 };
 
 Object.values(content).map((c) => sortGlob(c));
@@ -27,66 +27,20 @@ Object.values(content).map((c) => sortGlob(c));
     </div>
     <MenuItems class="hidden nav:flex">
       <ul class="flex flex-col nav:flex-row nav:gap-5 no-list-style">
-        <li>
-          <Dropdown>
-            <span slot="title">Playing&nbsp;</span>
-            {
-              content.playing.map((c) => (
-                <DropdownItem href={c.url}>{c.frontmatter.title}</DropdownItem>
-              ))
-            }
-          </Dropdown>
-        </li>
-        <li>
-          <Dropdown>
-            <span slot="title">Classes&nbsp;</span>
-            {
-              content.classes.map((c) => (
-                <DropdownItem href={c.url}>{c.frontmatter.title}</DropdownItem>
-              ))
-            }
-          </Dropdown>
-        </li>
-        <li>
-          <Dropdown>
-            <span slot="title">GMing&nbsp;</span>
-            {
-              content.gming.map((c) => (
-                <DropdownItem href={c.url}>{c.frontmatter.title}</DropdownItem>
-              ))
-            }
-          </Dropdown>
-        </li>
-        <li>
-          <Dropdown>
-            <span slot="title">Monsters&nbsp;</span>
-            {
-              content.monsters.map((c) => (
-                <DropdownItem href={c.url}>{c.frontmatter.title}</DropdownItem>
-              ))
-            }
-          </Dropdown>
-        </li>
-        <li>
-          <Dropdown>
-            <span slot="title">Spell Lists&nbsp;</span>
-            {
-              content.spells.map((c) => (
-                <DropdownItem href={c.url}>{c.frontmatter.title}</DropdownItem>
-              ))
-            }
-          </Dropdown>
-        </li>
-        <li>
-          <Dropdown>
-            <span slot="title">Appendices&nbsp;</span>
-            {
-              content.appendices.map((c) => (
-                <DropdownItem href={c.url}>{c.frontmatter.title}</DropdownItem>
-              ))
-            }
-          </Dropdown>
-        </li>
+        {
+          Object.entries(content).map(([name, items]) => (
+            <li>
+              <Dropdown>
+                <span slot="title">{name}&nbsp;</span>
+                {items.map((item) => (
+                  <DropdownItem href={item.url}>
+                    {item.frontmatter.title}
+                  </DropdownItem>
+                ))}
+              </Dropdown>
+            </li>
+          ))
+        }
       </ul>
     </MenuItems>
   </Astronav>
