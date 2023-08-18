@@ -1,6 +1,7 @@
 ---
 layout: "../../layouts/GenericPage.astro"
 title: "Advanced Delving"
+priority: 60
 ---
 
 # Advanced Delving

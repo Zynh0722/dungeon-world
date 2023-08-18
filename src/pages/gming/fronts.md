@@ -1,6 +1,7 @@
 ---
 layout: "../../layouts/GenericPage.astro"
 title: "Fronts"
+priority: 80
 ---
 
 # Fronts

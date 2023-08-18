@@ -1,6 +1,7 @@
 ---
 layout: "../../layouts/GenericPage.astro"
 title: "GM"
+priority: 100
 ---
 
 # The GM

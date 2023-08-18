@@ -1,6 +1,7 @@
 ---
 layout: "../../layouts/GenericPage.astro"
 title: "First Session"
+priority: 90
 ---
 
 # First Session

@@ -1,6 +1,7 @@
 ---
 layout: "../../layouts/GenericPage.astro"
 title: "The World"
+priority: 70
 ---
 
 # The World
