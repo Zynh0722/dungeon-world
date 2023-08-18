@@ -1,15 +1,9 @@
 ---
 import DropdownItem from "./DropdownItem.astro";
-
 import TempDropdown from "./Dropdown.astro";
+import sortGlob from "../utilites/sortGlob";
 
 import { Astronav, MenuItems, MenuIcon } from "astro-navbar";
-
-function sortGlob(glob: Record<string, any>[]) {
-  return glob.sort(
-    (a, b) => (b.frontmatter.priority || 0) - (a.frontmatter.priority || 0)
-  );
-}
 
 const content = {
   appendices: await Astro.glob("/src/pages/appendices/*"),
