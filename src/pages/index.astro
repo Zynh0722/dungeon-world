@@ -1,9 +1,36 @@
 ---
 import Layout from "../layouts/GenericPage.astro";
+
+import sortGlob from "../utilites/sortGlob";
+
+const content = {
+  Playing: await Astro.glob("/src/pages/playing/*"),
+  Classes: await Astro.glob("/src/pages/classes/*"),
+  Spells: await Astro.glob("/src/pages/spells/*"),
+  GMing: await Astro.glob("/src/pages/gming/*"),
+  Monsters: await Astro.glob("/src/pages/monsters/*"),
+  Appendices: await Astro.glob("/src/pages/appendices/*"),
+};
+
+Object.values(content).map((c) => sortGlob(c));
 ---
 
 <Layout title="Welcome to Astro.">
-  <main>
-    <h1>Dungeon World!</h1>
-  </main>
+  <h1 class="text-center">Dungeon World!</h1>
+  <div class="flex flex-wrap gap-8 px-8 m-auto nav:m-0 nav:gap-24 nav:px-24">
+    {
+      Object.entries(content).map(([name, items]) => (
+        <div>
+          <h2>{name}</h2>
+          <ul class="no-list-style">
+            {items.map((item) => (
+              <a href={item.url} class="link">
+                <li>{item.frontmatter.title}</li>
+              </a>
+            ))}
+          </ul>
+        </div>
+      ))
+    }
+  </div>
 </Layout>

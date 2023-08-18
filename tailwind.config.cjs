@@ -78,6 +78,15 @@ module.exports = {
         '.no-list-style': {
           listStyleType: 'none',
           paddingBottom: '0',
+        },
+        '.link': {
+          textDecoration: 'underline',
+        },
+        '.link:visited': {
+          color: '#551A8B',
+        },
+        '.link:link': {
+          color: '#0000EE',
         }
       })
     },
