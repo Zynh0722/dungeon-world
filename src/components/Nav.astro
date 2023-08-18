@@ -1,6 +1,6 @@
 ---
 import DropdownItem from "./DropdownItem.astro";
-import TempDropdown from "./Dropdown.astro";
+import Dropdown from "./Dropdown.astro";
 import sortGlob from "../utilites/sortGlob";
 
 import { Astronav, MenuItems, MenuIcon } from "astro-navbar";
@@ -28,64 +28,64 @@ Object.values(content).map((c) => sortGlob(c));
     <MenuItems class="hidden nav:flex">
       <ul class="flex flex-col nav:flex-row nav:gap-5 no-list-style">
         <li>
-          <TempDropdown class="group">
+          <Dropdown class="group">
             <span slot="title">Playing&nbsp;</span>
             {
               content.playing.map((c) => (
                 <DropdownItem href={c.url}>{c.frontmatter.title}</DropdownItem>
               ))
             }
-          </TempDropdown>
+          </Dropdown>
         </li>
         <li>
-          <TempDropdown>
+          <Dropdown>
             <span slot="title">Classes&nbsp;</span>
             {
               content.classes.map((c) => (
                 <DropdownItem href={c.url}>{c.frontmatter.title}</DropdownItem>
               ))
             }
-          </TempDropdown>
+          </Dropdown>
         </li>
         <li>
-          <TempDropdown>
+          <Dropdown>
             <span slot="title">GMing&nbsp;</span>
             {
               content.gming.map((c) => (
                 <DropdownItem href={c.url}>{c.frontmatter.title}</DropdownItem>
               ))
             }
-          </TempDropdown>
+          </Dropdown>
         </li>
         <li>
-          <TempDropdown>
+          <Dropdown>
             <span slot="title">Monsters&nbsp;</span>
             {
               content.monsters.map((c) => (
                 <DropdownItem href={c.url}>{c.frontmatter.title}</DropdownItem>
               ))
             }
-          </TempDropdown>
+          </Dropdown>
         </li>
         <li>
-          <TempDropdown>
+          <Dropdown>
             <span slot="title">Spell Lists&nbsp;</span>
             {
               content.spells.map((c) => (
                 <DropdownItem href={c.url}>{c.frontmatter.title}</DropdownItem>
               ))
             }
-          </TempDropdown>
+          </Dropdown>
         </li>
         <li>
-          <TempDropdown>
+          <Dropdown>
             <span slot="title">Appendices&nbsp;</span>
             {
               content.appendices.map((c) => (
                 <DropdownItem href={c.url}>{c.frontmatter.title}</DropdownItem>
               ))
             }
-          </TempDropdown>
+          </Dropdown>
         </li>
       </ul>
     </MenuItems>
