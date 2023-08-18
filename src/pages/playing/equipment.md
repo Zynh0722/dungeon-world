@@ -1,6 +1,7 @@
 ---
 layout: "../../layouts/GenericPage.astro"
 title: "Equipment"
+priority: 50
 ---
 
 # Equipment

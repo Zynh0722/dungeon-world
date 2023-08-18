@@ -1,6 +1,7 @@
 ---
 layout: "../../layouts/GenericPage.astro"
 title: "Moves"
+priority: 60
 ---
 
 # Basic Moves

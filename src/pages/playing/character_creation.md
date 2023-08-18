@@ -1,6 +1,7 @@
 ---
 layout: "../../layouts/GenericPage.astro"
 title: "Character Creation"
+priority: 70
 ---
 
 # Character Creation

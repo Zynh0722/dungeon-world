@@ -1,6 +1,7 @@
 ---
 layout: "../../layouts/GenericPage.astro"
 title: "Playing the Game"
+priority: 90
 ---
 
 # Playing the Game

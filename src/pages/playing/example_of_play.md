@@ -1,6 +1,7 @@
 ---
 layout: "../../layouts/GenericPage.astro"
 title: "Example of Play"
+priority: 80
 ---
 
 # Example of Play

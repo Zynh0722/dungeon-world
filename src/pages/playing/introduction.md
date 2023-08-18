@@ -1,6 +1,7 @@
 ---
 layout: "../../layouts/GenericPage.astro"
 title: "Introduction"
+priority: 100
 ---
 
 # Introduction
