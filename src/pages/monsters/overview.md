@@ -1,6 +1,7 @@
 ---
 layout: "../../layouts/GenericPage.astro"
 title: "Monsters"
+priority: 100
 ---
 
 # Monsters
