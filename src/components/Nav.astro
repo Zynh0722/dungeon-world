@@ -4,6 +4,21 @@ import DropdownItem from "./DropdownItem.astro";
 import TempDropdown from "./Dropdown.astro";
 
 import { Astronav, MenuItems, MenuIcon } from "astro-navbar";
+
+function sortGlob(glob: Record<string, any>[]) {
+  return glob.sort((a, b) => b.frontmatter.priority - a.frontmatter.priority);
+}
+
+const content = {
+  appendices: await Astro.glob("/src/pages/appendices/*"),
+  classes: await Astro.glob("/src/pages/classes/*"),
+  gming: await Astro.glob("/src/pages/gming/*"),
+  monsters: await Astro.glob("/src/pages/monsters/*"),
+  playing: await Astro.glob("/src/pages/playing/*"),
+  spells: await Astro.glob("/src/pages/spells/*"),
+};
+
+Object.values(content).map((c) => sortGlob(c));
 ---
 
 <header class="nav:flex p-5 gap-5">
@@ -19,105 +34,61 @@ import { Astronav, MenuItems, MenuIcon } from "astro-navbar";
         <li>
           <TempDropdown class="group">
             <span slot="title">Playing&nbsp;</span>
-            <DropdownItem href="/playing/introduction">
-              Introduction
-            </DropdownItem>
-            <DropdownItem href="/playing/playing_the_game">
-              Playing the Game
-            </DropdownItem>
-            <DropdownItem href="/playing/example_of_play">
-              Example of Play
-            </DropdownItem>
-            <DropdownItem href="/playing/character_creation">
-              Character Creation
-            </DropdownItem>
-            <DropdownItem href="/playing/moves">Moves</DropdownItem>
-            <DropdownItem href="/playing/equipment">Equipment</DropdownItem>
+            {
+              content.playing.map((c) => (
+                <DropdownItem href={c.url}>{c.frontmatter.title}</DropdownItem>
+              ))
+            }
           </TempDropdown>
         </li>
         <li>
           <TempDropdown>
             <span slot="title">Classes&nbsp;</span>
-            <DropdownItem href="/classes/barbarian">Barbarian</DropdownItem>
-            <DropdownItem href="/classes/bard">Bard</DropdownItem>
-            <DropdownItem href="/classes/cleric">Cleric</DropdownItem>
-            <DropdownItem href="/classes/druid">Druid</DropdownItem>
-            <DropdownItem href="/classes/fighter">Fighter</DropdownItem>
-            <DropdownItem href="/classes/immolator">Immolator</DropdownItem>
-            <DropdownItem href="/classes/paladin">Paladin</DropdownItem>
-            <DropdownItem href="/classes/ranger">Ranger</DropdownItem>
-            <DropdownItem href="/classes/thief">Thief</DropdownItem>
-            <DropdownItem href="/classes/wizard">Wizard</DropdownItem>
+            {
+              content.classes.map((c) => (
+                <DropdownItem href={c.url}>{c.frontmatter.title}</DropdownItem>
+              ))
+            }
           </TempDropdown>
         </li>
         <li>
           <TempDropdown>
             <span slot="title">GMing&nbsp;</span>
-            <DropdownItem href="/gming/gm">GM</DropdownItem>
-            <DropdownItem href="/gming/first_session">
-              First Session
-            </DropdownItem>
-            <DropdownItem href="/gming/fronts">Fronts</DropdownItem>
-            <DropdownItem href="/gming/the_world">The World</DropdownItem>
-            <DropdownItem href="/gming/advanced_delving">
-              Advanced Delving
-            </DropdownItem>
+            {
+              content.gming.map((c) => (
+                <DropdownItem href={c.url}>{c.frontmatter.title}</DropdownItem>
+              ))
+            }
           </TempDropdown>
         </li>
         <li>
           <TempDropdown>
             <span slot="title">Monsters&nbsp;</span>
-            <DropdownItem href="/monsters/overview">Overview</DropdownItem>
-            <DropdownItem href="/monsters/cavern_dwellers">
-              Cavern Dwellers
-            </DropdownItem>
-            <DropdownItem href="/monsters/swamp_denizens">
-              Swamp Denizens
-            </DropdownItem>
-            <DropdownItem href="/monsters/undead_legions">
-              Undead Legions
-            </DropdownItem>
-            <DropdownItem href="/monsters/dark_woods">Dark Woods</DropdownItem>
-            <DropdownItem href="/monsters/ravenous_hordes">
-              Ravenous Hordes
-            </DropdownItem>
-            <DropdownItem href="/monsters/twisted_experiments">
-              Twisted Experiments
-            </DropdownItem>
-            <DropdownItem href="/monsters/lower_depths">
-              Lower Depths
-            </DropdownItem>
-            <DropdownItem href="/monsters/planar_powers">
-              Planar Powers
-            </DropdownItem>
-            <DropdownItem href="/monsters/folk_of_the_realm">
-              Folk of the Realm
-            </DropdownItem>
+            {
+              content.monsters.map((c) => (
+                <DropdownItem href={c.url}>{c.frontmatter.title}</DropdownItem>
+              ))
+            }
           </TempDropdown>
         </li>
         <li>
           <TempDropdown>
             <span slot="title">Spell Lists&nbsp;</span>
-            <DropdownItem href="/spells/cleric">Cleric</DropdownItem>
-            <DropdownItem href="/spells/wizard">Wizard</DropdownItem>
+            {
+              content.spells.map((c) => (
+                <DropdownItem href={c.url}>{c.frontmatter.title}</DropdownItem>
+              ))
+            }
           </TempDropdown>
         </li>
         <li>
           <TempDropdown>
             <span slot="title">Appendices&nbsp;</span>
-            <DropdownItem href="/appendices/thanks">Thanks</DropdownItem>
-            <DropdownItem href="/appendices/teaching_the_game">
-              Teaching
-            </DropdownItem>
-            <DropdownItem href="/appendices/adventure_conversion">
-              Conversion
-            </DropdownItem>
-            <DropdownItem href="/appendices/instant_npcs">
-              Instant NPCs
-            </DropdownItem>
-            <DropdownItem href="/appendices/tag_reference">
-              Tag Reference
-            </DropdownItem>
+            {
+              content.appendices.map((c) => (
+                <DropdownItem href={c.url}>{c.frontmatter.title}</DropdownItem>
+              ))
+            }
           </TempDropdown>
         </li>
       </ul>
